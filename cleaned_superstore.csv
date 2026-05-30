@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Mode,Customer Name,Segment,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Month
+CA-2023-1001,2024-04-01,Standard Class,Darrell Harding,Consumer,West,Technology,Monitor,Monitor Scene,807.97,7,0.27,-44.37,4
+CA-2024-1002,2023-01-26,Second Class,Norma Perry,Consumer,Central,Furniture,Table,Table Education,974.58,4,0.28,188.97,1
+CA-2023-1003,2024-05-12,First Class,Michael Cohen,Home Office,West,Furniture,Chair,Chair Both,913.06,2,0.4,271.24,5
+CA-2024-1004,2023-12-02,Standard Class,Dana Stout,Consumer,Central,Technology,Printer,Printer Public,167.92,10,0.48,75.84,12
+CA-2025-1005,2024-08-09,Standard Class,Gary Patterson,Home Office,Central,Technology,Monitor,Monitor Would,414.43,4,0.12,257.29,8
+CA-2025-1006,2023-05-26,Standard Class,Kevin Jefferson,Home Office,Central,Furniture,Sofa,Sofa Expect,611.16,3,0.21,91.58,5
+CA-2024-1007,2024-12-26,First Class,Russell Perez,Corporate,East,Furniture,Bookcase,Bookcase Make,903.55,2,0.42,96.36,12
+CA-2024-1008,2024-03-11,Second Class,Lori Russell,Corporate,West,Office Supplies,Binder,Binder News,322.86,8,0.06,-13.54,3
+CA-2025-1009,2024-08-08,Standard Class,Paul Smith,Corporate,East,Technology,Phone,Phone Today,200.57,9,0.47,71.64,8
+CA-2023-1010,2023-11-25,Second Class,Robert Kemp,Consumer,Central,Office Supplies,Paper,Paper Chair,940.32,5,0.27,38.06,11
+CA-2023-1011,2024-12-16,Standard Class,Larry Rosales,Home Office,West,Furniture,Chair,Chair College,619.99,3,0.21,13.78,12
+CA-2025-1012,2024-05-07,First Class,Michael Davis,Home Office,South,Office Supplies,Storage,Storage Republican,322.61,4,0.2,213.47,5
+CA-2025-1013,2024-12-06,Second Class,Stephen Brooks,Corporate,West,Office Supplies,Binder,Binder About,210.16,6,0.1,-26.46,12
+CA-2025-1014,2024-11-07,Second Class,Zachary Morales,Home Office,East,Technology,Monitor,Monitor Air,98.71,10,0.42,265.92,11
+CA-2023-1015,2024-05-21,Standard Class,Amanda Ortiz,Home Office,West,Technology,Printer,Printer Ok,597.15,3,0.42,111.46,5
+CA-2023-1016,2023-01-23,First Class,Lawrence Reilly,Consumer,East,Furniture,Bookcase,Bookcase Total,436.57,4,0.49,104.5,1
+CA-2024-1017,2023-04-30,Second Class,Brandon Smith,Home Office,Central,Technology,Laptop,Laptop Audience,378.77,1,0.42,274.55,4
+CA-2024-1018,2024-12-10,First Class,Bradley Taylor,Home Office,South,Technology,Phone,Phone Political,783.62,6,0.22,97.21,12
+CA-2023-1019,2023-11-10,Second Class,Elizabeth Callahan,Corporate,Central,Technology,Laptop,Laptop Various,289.55,10,0.08,-32.15,11
+CA-2023-1020,2023-03-10,Standard Class,Holly Johnson,Home Office,South,Furniture,Table,Table Activity,830.32,3,0.19,26.15,3
+CA-2024-1021,2023-01-22,First Class,Erin Richards,Home Office,West,Office Supplies,Binder,Binder Too,774.49,10,0.2,-24.47,1
+CA-2023-1022,2023-12-12,Standard Class,Jessica Harris,Consumer,Central,Furniture,Bookcase,Bookcase Maintain,797.53,10,0.48,188.72,12
+CA-2025-1023,2024-11-21,Standard Class,Mariah Johnson,Consumer,Central,Technology,Laptop,Laptop Term,865.93,8,0.16,42.06,11
+CA-2023-1024,2023-04-01,Standard Class,Amanda Taylor,Consumer,West,Office Supplies,Paper,Paper Firm,464.55,4,0.02,262.56,4
+CA-2025-1025,2023-10-15,First Class,Jennifer Cook,Corporate,Central,Furniture,Table,Table Level,285.09,10,0.11,-47.63,10
+CA-2023-1026,2024-12-20,Standard Class,Joyce Rivera,Consumer,East,Technology,Phone,Phone Oil,70.89,4,0.27,-32.38,12
+CA-2023-1027,2023-06-07,Second Class,Jessica Thompson,Corporate,South,Technology,Monitor,Monitor Value,151.68,8,0.24,181.19,6
+CA-2024-1028,2023-06-10,Second Class,Chelsea Gallagher,Consumer,Central,Technology,Laptop,Laptop From,895.95,4,0.11,212.11,6
+CA-2025-1029,2023-07-04,Second Class,April Kim,Corporate,Central,Technology,Monitor,Monitor Standard,384.52,6,0.27,191.16,7
+CA-2025-1030,2024-12-19,Standard Class,Jorge Weber,Corporate,West,Office Supplies,Paper,Paper Set,56.56,8,0.19,284.1,12
+CA-2024-1031,2024-07-02,Standard Class,Anthony Shields,Corporate,West,Office Supplies,Paper,Paper Because,856.35,10,0.13,268.63,7
+CA-2023-1032,2024-05-18,Second Class,Daniel Williams,Consumer,West,Furniture,Sofa,Sofa Financial,958.79,1,0.43,154.04,5
+CA-2024-1033,2023-05-27,First Class,Jamie Rodriguez,Corporate,Central,Technology,Phone,Phone Usually,434.42,1,0.43,195.54,5
+CA-2024-1034,2024-03-27,Standard Class,Gary Miranda,Consumer,West,Furniture,Chair,Chair Teacher,277.98,1,0.14,90.37,3
+CA-2024-1035,2023-11-24,Standard Class,Michael Leach,Corporate,West,Office Supplies,Storage,Storage Including,892.97,3,0.25,272.16,11
+CA-2025-1036,2024-04-21,Second Class,Stephanie Gibson,Consumer,West,Technology,Phone,Phone Career,226.99,10,0.31,-14.11,4
+CA-2025-1037,2023-07-31,Second Class,Jose Wallace,Consumer,East,Technology,Printer,Printer Court,729.22,7,0.01,-40.88,7
+CA-2023-1038,2023-08-04,First Class,Benjamin Becker,Corporate,South,Furniture,Chair,Chair Win,810.63,4,0.21,163.46,8
+CA-2023-1039,2024-11-29,Standard Class,Sheryl Lawson,Home Office,South,Furniture,Sofa,Sofa In,401.91,1,0.3,8.09,11
+CA-2023-1040,2024-10-06,First Class,Megan Little,Home Office,South,Furniture,Chair,Chair Behind,250.41,9,0.46,0.83,10
+CA-2023-1041,2023-02-21,Second Class,Latoya Graham,Home Office,East,Office Supplies,Binder,Binder Far,727.59,8,0.43,252.47,2
+CA-2023-1042,2024-07-18,Standard Class,Heather Garcia,Consumer,South,Furniture,Sofa,Sofa Daughter,679.52,1,0.19,57.15,7
+CA-2023-1043,2024-07-27,Standard Class,Melissa Holmes,Consumer,West,Technology,Laptop,Laptop For,450.58,10,0.5,53.42,7
+CA-2025-1044,2023-12-24,Second Class,Hannah Jones,Corporate,East,Technology,Printer,Printer Hospital,780.7,3,0.46,4.16,12
+CA-2025-1045,2024-10-01,Second Class,Chloe Ball,Consumer,West,Office Supplies,Paper,Paper Three,717.39,2,0.38,250.57,10
+CA-2025-1046,2023-06-02,Standard Class,Deborah Bowen,Consumer,South,Furniture,Bookcase,Bookcase Catch,41.96,10,0.32,194.79,6
+CA-2024-1047,2024-09-29,Standard Class,Jeremiah Thompson,Corporate,West,Technology,Printer,Printer Market,406.91,6,0.42,49.35,9
+CA-2023-1048,2023-03-28,First Class,Meredith Hudson,Consumer,West,Furniture,Sofa,Sofa Stay,730.25,1,0.2,151.12,3
+CA-2023-1049,2023-04-11,First Class,Elizabeth Torres,Home Office,East,Furniture,Bookcase,Bookcase Professional,400.58,2,0.28,136.36,4
+CA-2023-1050,2024-06-18,Standard Class,Seth Johnson,Home Office,East,Furniture,Sofa,Sofa Wind,863.02,8,0.25,27.5,6
+CA-2025-1051,2023-02-08,Second Class,Gregory Smith,Home Office,Central,Office Supplies,Pen,Pen Race,938.35,9,0.22,2.21,2
+CA-2025-1052,2023-06-24,First Class,Ms. Brenda Walter DVM,Corporate,Central,Technology,Phone,Phone Consumer,658.84,5,0.02,0.42,6
+CA-2025-1053,2024-08-28,Standard Class,Anne Flynn,Corporate,West,Office Supplies,Pen,Pen Others,622.4,6,0.01,108.54,8
+CA-2025-1054,2023-06-16,Second Class,Crystal Bailey,Corporate,West,Technology,Phone,Phone Floor,334.24,9,0.24,5.75,6
+CA-2023-1055,2023-01-14,Second Class,Michael Hughes,Corporate,West,Furniture,Bookcase,Bookcase Share,273.09,1,0.01,187.27,1
+CA-2023-1056,2023-06-05,Standard Class,Denise Lane,Home Office,Central,Furniture,Bookcase,Bookcase State,794.74,9,0.35,6.22,6
+CA-2024-1057,2024-04-22,Standard Class,Susan Greer,Corporate,East,Furniture,Sofa,Sofa Unit,429.14,10,0.17,137.89,4
+CA-2025-1058,2024-09-07,Second Class,Anthony Banks,Home Office,East,Office Supplies,Binder,Binder Follow,779.12,8,0.18,32.61,9
+CA-2025-1059,2023-11-19,Standard Class,Michael Hunter DVM,Consumer,Central,Technology,Printer,Printer Bill,876.04,9,0.41,206.59,11
+CA-2024-1060,2023-08-27,Second Class,Mrs. Brenda Thompson DVM,Consumer,Central,Office Supplies,Binder,Binder Either,604.61,7,0.02,168.82,8
+CA-2025-1061,2023-05-30,Standard Class,Lydia Jones,Consumer,Central,Office Supplies,Paper,Paper Red,873.78,6,0.08,-31.83,5
+CA-2023-1062,2023-01-11,Standard Class,Jessica Harrell,Home Office,Central,Office Supplies,Binder,Binder Probably,372.05,7,0.46,257.03,1
+CA-2023-1063,2023-07-07,Second Class,Jennifer Atkins,Consumer,West,Technology,Monitor,Monitor Administration,322.3,8,0.48,41.14,7
+CA-2023-1064,2024-07-01,First Class,Alexandra Jones,Corporate,East,Technology,Phone,Phone Month,39.18,7,0.11,239.01,7
+CA-2023-1065,2023-12-14,Second Class,Natasha Romero,Corporate,South,Office Supplies,Storage,Storage Student,411.61,1,0.29,255.36,12
+CA-2023-1066,2023-12-10,Second Class,Megan Sanders,Consumer,East,Furniture,Chair,Chair Movement,378.97,8,0.37,207.43,12
+CA-2024-1067,2024-02-11,Standard Class,Melissa Saunders,Home Office,Central,Furniture,Chair,Chair There,754.87,6,0.28,229.46,2
+CA-2024-1068,2024-10-08,First Class,Christopher Mckee,Home Office,East,Furniture,Sofa,Sofa Artist,606.95,10,0.42,-10.81,10
+CA-2025-1069,2023-12-09,First Class,Christina Perry,Consumer,South,Technology,Laptop,Laptop Amount,496.63,1,0.28,240.63,12
+CA-2024-1070,2023-01-04,Standard Class,Melanie Perez,Corporate,East,Office Supplies,Binder,Binder Debate,734.63,10,0.35,260.53,1
+CA-2024-1071,2023-09-12,Standard Class,Christopher Buchanan,Consumer,Central,Furniture,Table,Table Yard,617.82,1,0.44,-25.31,9
+CA-2023-1072,2023-12-05,Second Class,Michael Solomon,Corporate,Central,Furniture,Chair,Chair Miss,695.13,7,0.02,249.42,12
+CA-2024-1073,2024-01-07,Second Class,Ashley Todd,Home Office,West,Office Supplies,Pen,Pen Pm,507.99,7,0.27,162.72,1
+CA-2024-1074,2023-11-10,Standard Class,Lisa Lambert,Home Office,West,Furniture,Bookcase,Bookcase Floor,89.52,6,0.48,68.51,11
+CA-2024-1075,2024-10-14,First Class,Kenneth Rhodes,Consumer,East,Technology,Monitor,Monitor Six,342.93,3,0.13,-44.11,10
+CA-2025-1076,2024-05-11,First Class,Angela Warren,Home Office,Central,Technology,Monitor,Monitor Try,942.08,4,0.45,66.66,5
+CA-2024-1077,2023-10-12,First Class,Leslie Miller,Home Office,South,Technology,Phone,Phone Some,379.97,10,0.03,282.19,10
+CA-2025-1078,2023-10-09,Second Class,Angela Moore,Consumer,Central,Furniture,Table,Table Create,704.34,6,0.23,292.78,10
+CA-2025-1079,2023-08-30,First Class,Olivia Campbell,Corporate,West,Office Supplies,Storage,Storage Defense,618.07,10,0.2,295.18,8
+CA-2025-1080,2024-05-20,First Class,Cynthia Wilson,Corporate,West,Furniture,Table,Table Short,550.28,1,0.23,75.69,5
+CA-2024-1081,2024-06-12,Standard Class,John Allen,Corporate,South,Technology,Printer,Printer Fear,671.45,4,0.18,239.5,6
+CA-2023-1082,2024-02-05,Second Class,Kevin Baird,Consumer,East,Office Supplies,Paper,Paper Writer,272.93,7,0.22,39.14,2
+CA-2025-1083,2023-03-12,First Class,Joseph Bowers,Corporate,South,Furniture,Sofa,Sofa Attorney,249.9,1,0.32,177.5,3
+CA-2025-1084,2023-12-28,First Class,Linda Sutton,Corporate,South,Technology,Printer,Printer Issue,872.53,4,0.3,-1.11,12
+CA-2023-1085,2024-10-08,Second Class,Morgan Zimmerman,Corporate,Central,Technology,Phone,Phone Level,445.86,4,0.17,-23.54,10
+CA-2025-1086,2023-07-27,First Class,Ryan Shaw,Corporate,West,Technology,Monitor,Monitor Base,864.38,4,0.13,259.14,7
+CA-2024-1087,2024-09-23,Standard Class,Melissa Ortiz,Corporate,East,Office Supplies,Binder,Binder His,63.32,5,0.04,86.72,9
+CA-2025-1088,2024-06-08,First Class,Christina Johnson,Consumer,West,Technology,Laptop,Laptop White,86.18,6,0.46,208.69,6
+CA-2024-1089,2024-01-03,Second Class,Michael James,Corporate,East,Office Supplies,Paper,Paper Own,780.92,7,0.2,136.04,1
+CA-2025-1090,2023-09-27,Second Class,Mark May,Home Office,West,Technology,Printer,Printer Administration,541.02,3,0.41,149.77,9
+CA-2025-1091,2024-08-21,Second Class,Veronica King,Home Office,West,Technology,Printer,Printer Fill,882.02,4,0.36,-26.92,8
+CA-2024-1092,2024-09-30,Second Class,Timothy Jacobson,Corporate,East,Office Supplies,Storage,Storage Life,563.38,5,0.3,211.59,9
+CA-2024-1093,2024-09-13,Second Class,Brian Jones,Corporate,West,Technology,Phone,Phone Wife,470.87,8,0.14,111.96,9
+CA-2024-1094,2023-10-18,Second Class,Jonathan Carson,Corporate,Central,Furniture,Bookcase,Bookcase Physical,534.66,3,0.11,294.25,10
+CA-2025-1095,2024-11-19,First Class,Nicholas Vazquez,Consumer,East,Technology,Monitor,Monitor Seem,172.42,4,0.43,122.1,11
+CA-2024-1096,2024-11-10,Second Class,Monica Robinson,Corporate,Central,Furniture,Table,Table Behavior,577.28,1,0.1,58.46,11
+CA-2025-1097,2024-09-02,Second Class,Michele Swanson,Consumer,West,Office Supplies,Binder,Binder According,605.88,7,0.5,144.8,9
+CA-2025-1098,2023-04-04,Second Class,Brandon Miller,Consumer,Central,Furniture,Bookcase,Bookcase Billion,952.4,10,0.27,-18.77,4
+CA-2025-1099,2024-06-19,Standard Class,Joe Smith,Home Office,Central,Technology,Phone,Phone Before,82.73,8,0.36,13.43,6
+CA-2024-1100,2023-02-16,Second Class,Donald Brown,Corporate,West,Technology,Phone,Phone See,49.49,4,0.03,7.1,2
+CA-2024-1101,2024-01-09,Standard Class,Erica Gonzalez,Consumer,Central,Technology,Phone,Phone Daughter,476.46,1,0.21,-1.28,1
+CA-2025-1102,2024-04-06,Second Class,Samuel Reed,Home Office,East,Technology,Printer,Printer Discuss,671.64,5,0.38,260.19,4
+CA-2023-1103,2023-07-12,First Class,Cristian Brooks,Consumer,East,Office Supplies,Binder,Binder Time,481.42,1,0.21,217.95,7
+CA-2023-1104,2023-08-28,First Class,Julia Moore,Corporate,East,Furniture,Bookcase,Bookcase In,265.61,6,0.06,186.6,8
+CA-2025-1105,2023-11-05,Second Class,Leslie Mendez,Consumer,South,Office Supplies,Pen,Pen Mr,136.51,3,0.16,41.95,11
+CA-2025-1106,2023-11-02,Standard Class,Jesse Arellano,Consumer,South,Furniture,Table,Table About,994.96,5,0.05,259.05,11
+CA-2024-1107,2023-07-23,Second Class,Robert Pope,Consumer,Central,Office Supplies,Storage,Storage Town,160.25,5,0.1,179.27,7
+CA-2023-1108,2024-10-01,First Class,Kyle Bennett,Home Office,West,Furniture,Sofa,Sofa Lose,738.17,1,0.07,242.07,10
+CA-2023-1109,2024-03-22,Standard Class,Tina Gray DVM,Corporate,East,Technology,Phone,Phone Concern,871.17,5,0.29,197.59,3
+CA-2023-1110,2023-11-05,First Class,Denise Patterson,Home Office,Central,Furniture,Chair,Chair Dream,863.56,4,0.41,190.39,11
+CA-2025-1111,2023-02-15,Second Class,Mary Jacobs,Consumer,East,Furniture,Bookcase,Bookcase Per,926.16,3,0.04,159.96,2
+CA-2025-1112,2024-09-05,First Class,Ashley Burton,Corporate,West,Furniture,Chair,Chair Wonder,39.02,5,0.24,299.45,9
+CA-2023-1113,2024-02-22,Second Class,Dr. Natasha Conway DVM,Corporate,Central,Office Supplies,Storage,Storage Laugh,889.61,7,0.21,147.72,2
+CA-2024-1114,2024-06-28,Standard Class,Hannah Vaughn,Corporate,Central,Office Supplies,Paper,Paper Choose,848.31,3,0.27,90.05,6
+CA-2024-1115,2024-08-15,First Class,Mark Gonzales,Corporate,South,Office Supplies,Storage,Storage Close,726.92,1,0.25,41.14,8
+CA-2024-1116,2024-10-31,Second Class,Gina Sexton,Consumer,South,Furniture,Table,Table Director,64.61,9,0.41,90.18,10
+CA-2023-1117,2023-07-13,Standard Class,Michael Murray,Corporate,South,Technology,Phone,Phone Road,325.4,4,0.09,26.24,7
+CA-2023-1118,2024-04-26,First Class,Samantha Liu,Consumer,South,Furniture,Table,Table Give,548.35,2,0.29,57.46,4
+CA-2024-1119,2024-09-21,First Class,Matthew Adams,Corporate,East,Office Supplies,Binder,Binder Might,59.84,3,0.29,111.62,9
+CA-2025-1120,2023-05-10,Standard Class,Timothy Gilmore,Home Office,East,Office Supplies,Pen,Pen Cell,712.88,1,0.36,172.01,5
+CA-2025-1121,2024-11-05,Second Class,Bruce Wilson,Corporate,South,Technology,Laptop,Laptop Inside,328.74,1,0.04,71.46,11
+CA-2024-1122,2023-01-01,First Class,Cameron Hill,Consumer,East,Furniture,Table,Table Themselves,939.64,6,0.31,262.79,1
+CA-2025-1123,2023-08-25,Standard Class,Vanessa Jones,Consumer,Central,Office Supplies,Binder,Binder Player,396.46,2,0.18,267.33,8
+CA-2023-1124,2023-12-02,First Class,Samantha Stokes,Corporate,East,Office Supplies,Paper,Paper From,426.73,10,0.15,214.64,12
+CA-2024-1125,2023-09-30,First Class,Kaitlyn Wilson,Home Office,West,Office Supplies,Binder,Binder Professional,436.11,7,0.35,19.9,9
+CA-2023-1126,2024-03-11,First Class,Juan Alexander,Corporate,West,Furniture,Sofa,Sofa Mother,296.94,6,0.12,202.38,3
+CA-2023-1127,2024-10-08,First Class,Daniel Lewis,Corporate,West,Furniture,Sofa,Sofa Step,141.47,10,0.4,163.36,10
+CA-2023-1128,2023-03-01,First Class,Daniel Wilson,Corporate,West,Furniture,Sofa,Sofa Weight,140.95,1,0.26,242.68,3
+CA-2023-1129,2024-08-17,Standard Class,Bridget Nguyen,Consumer,West,Furniture,Bookcase,Bookcase Door,131.44,3,0.19,-47.07,8
+CA-2023-1130,2024-12-20,Second Class,Derek Nguyen,Corporate,East,Furniture,Sofa,Sofa Consumer,570.36,6,0.12,4.24,12
+CA-2025-1131,2023-07-19,Second Class,Karen Ramirez,Home Office,South,Furniture,Table,Table On,774.83,8,0.4,286.28,7
+CA-2025-1132,2024-08-19,First Class,Wayne Martin,Consumer,Central,Office Supplies,Storage,Storage Call,956.62,9,0.21,132.59,8
+CA-2025-1133,2024-07-31,Second Class,Paul Rangel,Corporate,South,Technology,Printer,Printer Shoulder,245.53,7,0.44,110.91,7
+CA-2023-1134,2023-02-03,First Class,Christopher Parker,Consumer,Central,Technology,Monitor,Monitor Site,721.76,5,0.22,68.37,2
+CA-2023-1135,2023-07-26,Second Class,Linda Escobar MD,Corporate,East,Furniture,Bookcase,Bookcase Forward,798.11,3,0.13,280.86,7
+CA-2023-1136,2023-04-15,First Class,Zachary Moore,Corporate,South,Office Supplies,Pen,Pen Including,954.75,4,0.48,183.5,4
+CA-2023-1137,2023-12-09,Standard Class,Mr. Juan Ellison,Home Office,South,Technology,Monitor,Monitor Feel,692.11,10,0.23,25.37,12
+CA-2025-1138,2024-06-13,First Class,Stacy Lowery,Corporate,South,Furniture,Chair,Chair Area,805.63,9,0.12,267.39,6
+CA-2024-1139,2024-02-26,Second Class,Nathan Jones,Corporate,Central,Furniture,Bookcase,Bookcase Happen,343.89,9,0.19,-9.97,2
+CA-2024-1140,2024-03-19,First Class,Rachel Thomas,Consumer,Central,Furniture,Chair,Chair Money,492.73,6,0.14,61.49,3
+CA-2024-1141,2023-07-24,First Class,Cynthia Kennedy,Consumer,West,Furniture,Chair,Chair Gun,677.18,9,0.23,16.46,7
+CA-2024-1142,2024-12-26,Standard Class,Emily Zhang,Corporate,South,Office Supplies,Paper,Paper Trial,856.31,7,0.05,207.1,12
+CA-2023-1143,2023-06-23,First Class,Jodi Snyder,Consumer,West,Technology,Monitor,Monitor If,92.63,1,0.44,234.57,6
+CA-2025-1144,2024-09-27,Second Class,Debra Ross,Consumer,Central,Furniture,Table,Table Main,650.26,9,0.16,81.89,9
+CA-2024-1145,2023-11-04,First Class,Maria Simmons,Consumer,East,Office Supplies,Storage,Storage Sign,959.15,2,0.39,38.64,11
+CA-2023-1146,2024-09-13,Second Class,Kathryn Juarez,Corporate,East,Technology,Phone,Phone Through,474.48,5,0.12,178.08,9
+CA-2025-1147,2024-01-22,First Class,Lori Johnson,Home Office,Central,Furniture,Table,Table This,933.32,8,0.15,277.02,1
+CA-2025-1148,2023-08-16,Second Class,James Myers,Consumer,East,Technology,Laptop,Laptop Across,304.5,6,0.41,-30.06,8
+CA-2024-1149,2024-09-10,Second Class,Dr. Daniel Lopez,Home Office,West,Technology,Laptop,Laptop Window,453.21,1,0.14,256.46,9
+CA-2024-1150,2024-11-05,Second Class,Dawn Ramirez,Home Office,West,Technology,Phone,Phone Mean,799.98,9,0.33,71.8,11
+CA-2023-1151,2024-11-13,Standard Class,Cynthia Yu,Corporate,East,Office Supplies,Paper,Paper Particularly,759.93,1,0.25,252.8,11
+CA-2023-1152,2024-06-21,Standard Class,William Park,Consumer,West,Furniture,Chair,Chair Somebody,637.95,3,0.43,250.99,6
+CA-2023-1153,2023-03-10,Standard Class,David Williams,Home Office,East,Technology,Laptop,Laptop Guess,278.17,6,0.34,-28.15,3
+CA-2025-1154,2023-01-10,Second Class,Alison Hill,Corporate,West,Office Supplies,Paper,Paper Simply,216.31,4,0.13,49.78,1
+CA-2025-1155,2024-04-27,First Class,Erica Solis,Corporate,West,Technology,Phone,Phone Season,811.14,3,0.28,22.83,4
+CA-2025-1156,2023-05-11,Standard Class,Heather Fisher,Corporate,West,Technology,Laptop,Laptop Probably,341.84,10,0.38,173.24,5
+CA-2024-1157,2024-03-23,Second Class,Joshua Hobbs,Corporate,South,Furniture,Table,Table Dark,207.05,9,0.38,39.15,3
+CA-2024-1158,2024-07-20,First Class,Joel Martinez,Home Office,West,Office Supplies,Storage,Storage Major,669.32,8,0.36,223.44,7
+CA-2024-1159,2024-04-09,First Class,Megan Elliott,Corporate,South,Technology,Printer,Printer Ok,361.78,4,0.32,33.71,4
+CA-2023-1160,2023-05-01,Second Class,Madison Nunez,Consumer,West,Technology,Monitor,Monitor Performance,655.01,5,0.09,254.95,5
+CA-2024-1161,2023-01-16,First Class,Zachary Thompson,Consumer,East,Furniture,Table,Table Accept,301.6,9,0.11,-34.92,1
+CA-2024-1162,2023-03-23,Second Class,David Robertson,Home Office,Central,Technology,Laptop,Laptop Customer,524.21,10,0.22,285.52,3
+CA-2025-1163,2023-06-04,Standard Class,Robert Jennings,Home Office,South,Furniture,Table,Table Anything,338.22,8,0.39,47.78,6
+CA-2024-1164,2023-12-16,Standard Class,Diana Martinez,Consumer,West,Technology,Printer,Printer Friend,703.34,9,0.48,223.9,12
+CA-2023-1165,2024-05-19,Second Class,Natasha Williams,Consumer,West,Technology,Monitor,Monitor South,437.92,1,0.3,168.02,5
+CA-2024-1166,2024-05-13,Second Class,Carla Buchanan,Corporate,Central,Technology,Laptop,Laptop Oil,879.16,5,0.1,290.05,5
+CA-2025-1167,2024-09-05,Standard Class,Sarah Hall,Consumer,East,Technology,Phone,Phone Program,956.96,1,0.46,180.55,9
+CA-2023-1168,2023-05-08,Standard Class,Mary Walter,Home Office,West,Office Supplies,Binder,Binder Your,631.48,7,0.14,192.27,5
+CA-2023-1169,2023-08-31,Second Class,Sarah Solis,Corporate,East,Office Supplies,Binder,Binder On,766.75,6,0.05,142.02,8
+CA-2023-1170,2024-10-23,Second Class,Ariel Manning,Consumer,South,Furniture,Chair,Chair Tree,660.53,9,0.21,45.51,10
+CA-2023-1171,2024-01-02,Standard Class,Mary Meadows,Corporate,South,Furniture,Bookcase,Bookcase Wide,129.45,1,0.31,90.3,1
+CA-2025-1172,2024-12-07,Second Class,Ashley Rivera,Corporate,East,Technology,Printer,Printer Writer,582.68,8,0.21,128.92,12
+CA-2025-1173,2023-05-25,First Class,Mallory Barker,Consumer,South,Technology,Monitor,Monitor Mission,323.37,10,0.4,196.2,5
+CA-2024-1174,2024-04-29,First Class,Ivan Padilla,Home Office,Central,Technology,Monitor,Monitor Between,675.51,1,0.3,205.48,4
+CA-2024-1175,2024-10-30,Second Class,Christina Kaiser,Corporate,South,Furniture,Chair,Chair Just,746.84,10,0.12,195.48,10
+CA-2023-1176,2023-12-14,Standard Class,Shelley West,Home Office,East,Technology,Printer,Printer Show,396.94,2,0.11,193.39,12
+CA-2025-1177,2024-03-12,Standard Class,Dawn Lopez,Consumer,Central,Technology,Phone,Phone Mr,313.9,2,0.05,194.73,3
+CA-2024-1178,2023-04-29,Standard Class,Michelle Robinson,Consumer,South,Technology,Printer,Printer Write,955.96,1,0.03,248.73,4
+CA-2025-1179,2023-06-10,Second Class,Justin Higgins,Consumer,West,Furniture,Table,Table Once,241.23,1,0.14,52.1,6
+CA-2025-1180,2024-04-01,First Class,Matthew Gross,Corporate,South,Furniture,Chair,Chair Indicate,560.61,6,0.39,198.29,4
+CA-2025-1181,2024-05-02,Second Class,Mr. Christopher Williams DDS,Home Office,West,Office Supplies,Storage,Storage Apply,200.03,5,0.5,185.66,5
+CA-2024-1182,2024-08-24,Second Class,Jake Solomon,Corporate,East,Technology,Monitor,Monitor Allow,579.08,1,0.18,284.38,8
+CA-2025-1183,2023-04-15,First Class,Meredith Thomas,Corporate,East,Technology,Phone,Phone Benefit,55.97,10,0.0,154.72,4
+CA-2024-1184,2024-10-31,First Class,David Roberts PhD,Home Office,South,Office Supplies,Binder,Binder Share,652.98,7,0.3,269.43,10
+CA-2024-1185,2024-03-31,Second Class,Laura Johnson,Corporate,East,Technology,Laptop,Laptop Very,771.21,4,0.25,31.52,3
+CA-2025-1186,2023-12-28,Standard Class,Tony Nelson,Consumer,South,Office Supplies,Paper,Paper Must,66.59,9,0.45,261.71,12
+CA-2023-1187,2024-02-28,Standard Class,Angela Smith,Corporate,East,Furniture,Table,Table Car,190.62,6,0.2,49.54,2
+CA-2025-1188,2024-12-13,Standard Class,Cassandra Blackburn,Consumer,South,Technology,Laptop,Laptop Inside,53.69,5,0.0,276.31,12
+CA-2025-1189,2023-04-29,Standard Class,Andrea Baxter,Home Office,West,Furniture,Table,Table Understand,395.07,2,0.22,231.07,4
+CA-2023-1190,2024-08-23,Standard Class,Thomas Duke,Home Office,East,Technology,Monitor,Monitor Begin,605.82,9,0.23,113.74,8
+CA-2025-1191,2023-02-05,Second Class,Rhonda Fuentes,Home Office,South,Office Supplies,Binder,Binder Task,720.21,1,0.32,-7.98,2
+CA-2025-1192,2024-02-25,First Class,Walter Curry,Home Office,East,Furniture,Table,Table Skin,725.31,2,0.31,150.48,2
+CA-2023-1193,2024-11-23,Standard Class,Lisa Hernandez,Home Office,West,Office Supplies,Pen,Pen Especially,440.64,6,0.39,15.66,11
+CA-2025-1194,2023-02-10,Second Class,Bianca Obrien,Consumer,East,Technology,Laptop,Laptop Final,649.93,2,0.11,232.75,2
+CA-2023-1195,2023-04-16,Standard Class,Sean Castillo,Corporate,South,Technology,Monitor,Monitor Surface,365.7,4,0.44,-21.35,4
+CA-2025-1196,2024-09-14,Second Class,Mary Schwartz,Home Office,Central,Technology,Phone,Phone Them,874.34,10,0.38,284.58,9
+CA-2024-1197,2024-01-08,First Class,Robert Thomas,Home Office,South,Technology,Phone,Phone Pretty,514.24,9,0.22,28.6,1
+CA-2025-1198,2023-08-06,Standard Class,Jason Brown,Home Office,South,Technology,Printer,Printer Game,372.77,7,0.44,15.15,8
+CA-2024-1199,2023-07-25,Second Class,Valerie Conner DVM,Corporate,West,Furniture,Sofa,Sofa Which,319.92,4,0.21,115.21,7
+CA-2025-1200,2023-03-19,Standard Class,Kristi Austin,Consumer,West,Technology,Printer,Printer Condition,695.63,5,0.07,-44.31,3
+CA-2025-1201,2023-08-09,Standard Class,Elizabeth Lopez,Home Office,East,Technology,Printer,Printer Hit,450.12,9,0.27,149.83,8
+CA-2024-1202,2024-08-09,Second Class,Heather Allen,Consumer,Central,Furniture,Chair,Chair Song,101.32,9,0.4,-32.64,8
+CA-2025-1203,2024-07-27,Standard Class,Diana Brown,Consumer,South,Technology,Printer,Printer Hear,413.42,9,0.47,163.03,7
+CA-2024-1204,2024-05-29,Second Class,Travis Pineda,Home Office,South,Furniture,Table,Table Hard,39.88,6,0.08,218.34,5
+CA-2024-1205,2023-09-14,Second Class,Brandon Gregory,Consumer,East,Furniture,Sofa,Sofa Keep,897.58,3,0.29,-33.03,9
+CA-2024-1206,2023-12-03,Standard Class,Tina Cooper,Home Office,South,Furniture,Table,Table Send,281.68,9,0.07,94.83,12
+CA-2025-1207,2023-09-17,Second Class,Jerome Gibson II,Consumer,South,Furniture,Chair,Chair Until,41.47,3,0.08,162.35,9
+CA-2023-1208,2024-07-24,First Class,Marcus Lynch,Home Office,Central,Office Supplies,Binder,Binder Treat,505.78,5,0.5,82.51,7
+CA-2023-1209,2024-07-19,Standard Class,David Edwards,Consumer,East,Technology,Laptop,Laptop Worry,420.68,4,0.23,113.7,7
+CA-2024-1210,2023-08-23,First Class,Carolyn Maynard,Consumer,West,Office Supplies,Pen,Pen Responsibility,260.27,10,0.06,293.25,8
+CA-2025-1211,2023-07-23,Second Class,Alan Hunter,Consumer,East,Technology,Laptop,Laptop Speech,405.98,4,0.26,11.88,7
+CA-2025-1212,2024-07-18,Second Class,Virginia Zhang,Consumer,Central,Technology,Laptop,Laptop Provide,367.53,10,0.37,133.62,7
+CA-2024-1213,2023-08-30,First Class,Robert Torres,Consumer,East,Furniture,Sofa,Sofa Conference,492.83,9,0.05,49.94,8
+CA-2023-1214,2023-06-11,Standard Class,Bonnie Pennington,Consumer,West,Furniture,Table,Table Note,427.23,6,0.12,66.66,6
+CA-2024-1215,2024-07-28,First Class,Mrs. Janice Leonard,Consumer,South,Technology,Laptop,Laptop Bill,865.09,10,0.39,261.56,7
+CA-2023-1216,2024-01-25,Standard Class,Angela Marshall,Consumer,South,Office Supplies,Pen,Pen Why,766.13,1,0.23,217.43,1
+CA-2023-1217,2024-02-10,First Class,Ashley Davidson,Home Office,Central,Technology,Laptop,Laptop Garden,475.72,5,0.41,296.32,2
+CA-2024-1218,2023-08-01,Standard Class,Shane Washington,Home Office,Central,Office Supplies,Pen,Pen Begin,553.65,10,0.26,43.63,8
+CA-2025-1219,2023-10-12,Standard Class,Laura Dominguez,Corporate,East,Furniture,Chair,Chair Structure,217.66,10,0.11,-13.29,10
+CA-2025-1220,2024-07-31,Second Class,Pamela Rodriguez,Consumer,Central,Furniture,Bookcase,Bookcase Nature,352.63,1,0.15,114.45,7
+CA-2023-1221,2024-08-13,First Class,Lisa Haney,Consumer,East,Technology,Printer,Printer Yard,297.81,9,0.36,196.02,8
+CA-2023-1222,2024-12-16,Standard Class,Austin Fernandez,Consumer,Central,Office Supplies,Binder,Binder Type,353.13,5,0.49,265.01,12
+CA-2025-1223,2023-07-17,Standard Class,Matthew Hampton,Home Office,South,Office Supplies,Pen,Pen Agree,278.44,10,0.12,1.36,7
+CA-2023-1224,2023-10-14,Second Class,Tonya Phillips,Consumer,Central,Furniture,Chair,Chair President,739.75,7,0.05,189.49,10
+CA-2024-1225,2023-05-20,Standard Class,Anthony Whitney,Consumer,West,Office Supplies,Pen,Pen Staff,342.07,1,0.41,182.79,5
+CA-2023-1226,2024-10-20,Second Class,Charles Serrano,Home Office,West,Technology,Phone,Phone Left,243.09,8,0.39,157.93,10
+CA-2023-1227,2023-05-02,First Class,Erica Mcintyre,Corporate,Central,Office Supplies,Paper,Paper Heart,165.69,3,0.5,110.08,5
+CA-2023-1228,2023-05-04,Standard Class,Marcus Thomas,Home Office,East,Office Supplies,Binder,Binder Wear,280.47,4,0.05,70.54,5
+CA-2025-1229,2023-07-28,Standard Class,Scott Cowan,Corporate,East,Office Supplies,Pen,Pen Once,780.72,9,0.32,290.4,7
+CA-2025-1230,2023-09-30,Second Class,Dr. Jesse Thompson DVM,Consumer,East,Furniture,Table,Table Despite,457.42,10,0.4,173.91,9
+CA-2025-1231,2024-07-26,Standard Class,Becky Barker,Consumer,South,Furniture,Bookcase,Bookcase Feel,186.36,4,0.37,101.47,7
+CA-2023-1232,2023-03-06,First Class,Nicole Anderson,Corporate,East,Technology,Laptop,Laptop Cost,696.18,1,0.23,250.94,3
+CA-2023-1233,2024-04-22,First Class,Rebecca Guzman,Corporate,East,Furniture,Sofa,Sofa Around,918.29,1,0.23,54.21,4
+CA-2023-1234,2024-11-21,Standard Class,Scott Bennett,Home Office,East,Furniture,Chair,Chair He,741.75,10,0.25,-21.58,11
+CA-2025-1235,2023-09-03,Standard Class,David Carter,Corporate,West,Furniture,Table,Table Value,683.4,9,0.06,208.42,9
+CA-2025-1236,2023-06-10,Second Class,Mary Hall,Consumer,Central,Technology,Phone,Phone Official,464.14,1,0.11,227.5,6
+CA-2024-1237,2024-09-06,Standard Class,Kari Harris,Corporate,Central,Office Supplies,Binder,Binder Affect,722.86,9,0.39,62.17,9
+CA-2024-1238,2023-01-19,Second Class,Victoria Jones,Consumer,East,Furniture,Sofa,Sofa Consider,134.94,9,0.31,-18.47,1
+CA-2023-1239,2023-09-22,Second Class,Tammy Walker,Home Office,Central,Office Supplies,Pen,Pen World,220.88,10,0.36,7.51,9
+CA-2023-1240,2023-09-18,Second Class,Sean Oliver,Corporate,Central,Technology,Laptop,Laptop Him,153.78,4,0.21,275.09,9
+CA-2025-1241,2024-04-23,First Class,Andrew Schwartz,Corporate,West,Office Supplies,Binder,Binder Know,22.57,6,0.34,19.44,4
+CA-2023-1242,2023-09-02,Standard Class,Nicholas Harris,Corporate,West,Technology,Phone,Phone Yes,825.72,4,0.08,215.62,9
+CA-2023-1243,2024-07-20,First Class,Angela Smith,Home Office,East,Furniture,Chair,Chair Address,997.88,6,0.12,273.99,7
+CA-2025-1244,2024-01-26,Second Class,Oscar Fleming,Consumer,West,Office Supplies,Storage,Storage Government,181.14,3,0.06,205.71,1
+CA-2025-1245,2023-09-11,Second Class,Russell Murray,Consumer,West,Technology,Laptop,Laptop Soldier,39.86,10,0.19,17.16,9
+CA-2025-1246,2024-06-30,Standard Class,Brittany Beck,Consumer,West,Technology,Laptop,Laptop Choose,574.74,3,0.03,67.62,6
+CA-2024-1247,2023-07-04,Standard Class,Jessica Lopez,Consumer,South,Technology,Printer,Printer Similar,896.4,7,0.04,274.9,7
+CA-2025-1248,2023-06-27,Second Class,Jose Phillips,Consumer,East,Technology,Printer,Printer Daughter,598.2,1,0.48,218.86,6
+CA-2024-1249,2024-08-26,Second Class,Johnny Doyle,Corporate,South,Furniture,Sofa,Sofa Lawyer,947.48,6,0.29,140.51,8
+CA-2023-1250,2023-09-11,Second Class,George Morales,Home Office,West,Office Supplies,Storage,Storage Issue,924.13,8,0.42,-49.55,9
+CA-2024-1251,2024-01-25,Standard Class,Laura Reilly,Consumer,South,Office Supplies,Binder,Binder Small,116.31,8,0.13,107.66,1
+CA-2023-1252,2024-12-02,Second Class,Mark Jordan,Home Office,Central,Furniture,Chair,Chair Between,613.36,10,0.44,-36.56,12
+CA-2024-1253,2024-10-26,Standard Class,Scott Gonzalez,Home Office,Central,Furniture,Table,Table Girl,787.2,10,0.14,212.25,10
+CA-2025-1254,2024-01-25,First Class,Jason Craig,Home Office,Central,Technology,Phone,Phone Policy,160.25,5,0.02,54.87,1
+CA-2024-1255,2023-07-11,Standard Class,Shawn Watson,Home Office,West,Technology,Printer,Printer Inside,964.62,3,0.22,160.4,7
+CA-2023-1256,2023-02-21,Second Class,David Porter,Consumer,East,Furniture,Chair,Chair Reality,511.32,8,0.32,202.64,2
+CA-2025-1257,2023-05-24,Second Class,Heather Fletcher,Corporate,East,Furniture,Chair,Chair None,526.33,1,0.21,296.39,5
+CA-2025-1258,2024-08-10,First Class,Cody Perez,Home Office,South,Technology,Printer,Printer Reality,959.96,5,0.26,185.0,8
+CA-2025-1259,2024-04-07,Standard Class,Brian Mcintosh,Home Office,East,Furniture,Table,Table Born,651.24,4,0.07,163.63,4
+CA-2024-1260,2024-06-20,Second Class,Samantha Rivas,Consumer,Central,Office Supplies,Storage,Storage Teach,533.44,7,0.04,-42.04,6
+CA-2023-1261,2023-12-08,Second Class,Jennifer Hopkins,Home Office,Central,Technology,Printer,Printer Tend,243.32,5,0.3,80.69,12
+CA-2024-1262,2023-09-03,Second Class,Richard Garcia,Corporate,Central,Furniture,Sofa,Sofa Fight,529.29,10,0.32,244.81,9
+CA-2023-1263,2024-08-17,First Class,Julie Mathis,Consumer,West,Technology,Phone,Phone Sport,658.19,8,0.31,196.71,8
+CA-2024-1264,2024-11-18,First Class,Ricky Jones,Consumer,South,Office Supplies,Pen,Pen Especially,149.62,1,0.01,117.66,11
+CA-2025-1265,2024-07-24,Standard Class,David Barker,Home Office,East,Technology,Monitor,Monitor Guess,889.43,2,0.46,163.96,7
+CA-2023-1266,2023-05-05,Standard Class,Kathryn Weaver,Corporate,West,Office Supplies,Pen,Pen Own,67.8,6,0.34,1.46,5
+CA-2024-1267,2024-10-01,Standard Class,Benjamin Turner,Consumer,West,Furniture,Table,Table Want,507.34,1,0.47,-6.84,10
+CA-2024-1268,2024-11-12,First Class,Melissa Hernandez,Corporate,East,Technology,Monitor,Monitor Nature,398.26,5,0.36,233.74,11
+CA-2023-1269,2024-06-24,First Class,Julie Gonzales,Consumer,South,Office Supplies,Paper,Paper Run,371.33,7,0.04,-28.05,6
+CA-2024-1270,2023-08-05,Second Class,Danielle Johnson,Consumer,West,Office Supplies,Binder,Binder After,92.1,3,0.23,-17.15,8
+CA-2024-1271,2024-01-25,First Class,Mrs. Elizabeth Clark PhD,Home Office,South,Office Supplies,Pen,Pen Product,899.64,10,0.41,28.23,1
+CA-2024-1272,2023-12-16,First Class,Bridget Anderson,Corporate,Central,Office Supplies,Paper,Paper Civil,231.4,2,0.12,207.1,12
+CA-2025-1273,2023-02-12,Second Class,Susan Woods,Consumer,South,Technology,Printer,Printer Scientist,265.42,4,0.22,19.18,2
+CA-2023-1274,2023-03-21,First Class,Virginia Brewer,Consumer,West,Office Supplies,Binder,Binder Wish,545.32,6,0.19,296.01,3
+CA-2023-1275,2023-02-04,First Class,James Smith,Consumer,Central,Office Supplies,Pen,Pen Whatever,576.75,6,0.14,252.13,2
+CA-2025-1276,2024-12-05,First Class,Melissa Rivera,Corporate,East,Office Supplies,Pen,Pen They,413.85,5,0.26,32.16,12
+CA-2025-1277,2024-01-18,Second Class,Kyle Parker,Consumer,South,Technology,Printer,Printer Out,679.44,1,0.41,132.57,1
+CA-2025-1278,2023-07-28,Standard Class,Tanya Davis,Consumer,West,Office Supplies,Paper,Paper Coach,45.33,6,0.34,12.73,7
+CA-2023-1279,2024-12-24,Standard Class,Douglas Baird,Home Office,Central,Office Supplies,Storage,Storage Home,964.13,1,0.43,50.71,12
+CA-2023-1280,2024-02-20,First Class,Sheila Hatfield,Consumer,Central,Technology,Monitor,Monitor Bag,962.76,6,0.12,38.21,2
+CA-2024-1281,2024-08-18,Standard Class,Shane Gardner,Corporate,East,Technology,Laptop,Laptop Around,442.58,1,0.39,132.57,8
+CA-2023-1282,2023-03-10,Standard Class,Daniel Castillo,Corporate,East,Technology,Printer,Printer Maintain,549.78,5,0.19,261.33,3
+CA-2025-1283,2023-01-07,Standard Class,Katherine Chapman,Home Office,East,Office Supplies,Binder,Binder Gun,747.48,5,0.38,-36.92,1
+CA-2023-1284,2023-12-25,Second Class,Jose Knight,Corporate,Central,Furniture,Chair,Chair Firm,439.73,2,0.06,54.65,12
+CA-2024-1285,2024-12-03,Second Class,Robert Sandoval,Corporate,West,Office Supplies,Storage,Storage Final,144.08,7,0.44,225.64,12
+CA-2024-1286,2023-04-16,First Class,Nicole Valencia,Corporate,West,Furniture,Chair,Chair Picture,218.65,5,0.24,251.29,4
+CA-2025-1287,2023-06-27,First Class,Linda Gibson,Consumer,South,Technology,Laptop,Laptop Between,129.95,3,0.05,186.23,6
+CA-2025-1288,2024-12-16,Standard Class,Jennifer Carroll,Consumer,South,Technology,Printer,Printer Now,744.05,10,0.32,248.26,12
+CA-2025-1289,2024-02-06,Standard Class,Tina Marshall,Corporate,Central,Technology,Laptop,Laptop Cause,35.72,6,0.46,250.96,2
+CA-2025-1290,2024-09-09,Second Class,Melissa Higgins,Corporate,East,Furniture,Sofa,Sofa Computer,605.19,1,0.45,48.33,9
+CA-2024-1291,2023-11-21,Second Class,Kimberly Griffin,Corporate,West,Office Supplies,Binder,Binder Human,179.48,5,0.15,122.17,11
+CA-2024-1292,2024-05-16,First Class,James Savage,Consumer,West,Office Supplies,Pen,Pen Fight,763.12,10,0.38,21.58,5
+CA-2025-1293,2023-10-01,Standard Class,Cynthia Benson,Corporate,West,Office Supplies,Pen,Pen Whole,472.34,9,0.35,244.72,10
+CA-2025-1294,2024-04-04,Standard Class,Hunter Ross,Consumer,South,Technology,Monitor,Monitor Anyone,954.71,3,0.12,126.29,4
+CA-2023-1295,2024-04-17,Second Class,Alexandra Wilkerson,Home Office,Central,Furniture,Sofa,Sofa Since,439.5,3,0.3,132.01,4
+CA-2025-1296,2024-12-11,Standard Class,Timothy Andrade DVM,Corporate,South,Furniture,Chair,Chair Group,527.96,9,0.44,170.42,12
+CA-2023-1297,2024-07-16,Standard Class,William Miller,Consumer,Central,Technology,Printer,Printer Crime,870.84,7,0.36,60.23,7
+CA-2024-1298,2023-01-02,Standard Class,Matthew Berry,Corporate,West,Furniture,Table,Table Chance,394.36,9,0.04,-14.57,1
+CA-2023-1299,2024-01-08,Second Class,Tamara Townsend,Home Office,South,Technology,Laptop,Laptop Training,458.39,10,0.24,97.21,1
+CA-2024-1300,2024-07-22,Second Class,Zachary Bonilla,Corporate,Central,Technology,Laptop,Laptop Himself,710.86,2,0.08,52.44,7
+CA-2025-1301,2023-10-30,Standard Class,Omar Melendez,Consumer,South,Technology,Printer,Printer Maybe,364.91,5,0.4,46.96,10
+CA-2024-1302,2024-04-07,Second Class,Brandon King,Corporate,Central,Technology,Phone,Phone Pretty,901.57,10,0.17,18.97,4
+CA-2023-1303,2023-08-29,Standard Class,Miguel Irwin,Corporate,West,Technology,Phone,Phone Outside,794.68,1,0.39,228.57,8
+CA-2025-1304,2023-06-30,First Class,Gerald Gonzalez,Home Office,West,Technology,Phone,Phone Visit,754.39,10,0.28,289.69,6
+CA-2025-1305,2024-10-26,First Class,Brandon Bridges,Home Office,East,Furniture,Bookcase,Bookcase World,853.53,10,0.08,295.1,10
+CA-2024-1306,2024-11-26,Second Class,Brandy Beck,Home Office,West,Office Supplies,Storage,Storage Toward,403.53,9,0.28,-34.76,11
+CA-2023-1307,2024-04-06,First Class,Terry Patterson,Home Office,West,Furniture,Table,Table Effort,577.59,1,0.17,291.58,4
+CA-2023-1308,2023-07-27,First Class,Mitchell Dunn,Corporate,South,Furniture,Sofa,Sofa Must,224.16,1,0.15,200.98,7
+CA-2024-1309,2024-12-05,First Class,Steven Terry,Consumer,West,Technology,Monitor,Monitor Help,473.01,9,0.08,68.54,12
+CA-2023-1310,2024-08-30,First Class,Dana Clark,Corporate,East,Technology,Printer,Printer Campaign,270.16,9,0.47,-22.29,8
+CA-2025-1311,2024-07-24,Standard Class,Randy Cobb,Home Office,East,Technology,Laptop,Laptop This,769.06,5,0.06,-43.5,7
+CA-2024-1312,2024-08-02,Standard Class,Alan Sanders,Home Office,South,Furniture,Chair,Chair Task,791.43,7,0.12,220.67,8
+CA-2025-1313,2024-07-10,First Class,Ashley Moore,Corporate,West,Technology,Phone,Phone Choose,864.9,5,0.45,9.94,7
+CA-2023-1314,2023-12-15,Standard Class,Joy Mcdonald,Consumer,East,Furniture,Table,Table Agent,821.19,5,0.14,-38.52,12
+CA-2023-1315,2024-12-03,Standard Class,Joseph Bailey,Home Office,South,Technology,Printer,Printer Community,192.5,7,0.07,94.58,12
+CA-2025-1316,2023-07-04,Second Class,Daniel Garcia,Home Office,South,Office Supplies,Paper,Paper Son,832.56,7,0.38,129.45,7
+CA-2024-1317,2023-04-15,Second Class,Theresa Becker,Consumer,Central,Furniture,Chair,Chair Age,792.37,8,0.18,203.35,4
+CA-2024-1318,2023-03-26,First Class,Elizabeth Flowers,Home Office,East,Furniture,Table,Table Pass,643.44,6,0.23,137.29,3
+CA-2024-1319,2024-07-01,Second Class,Jessica Anderson,Home Office,South,Furniture,Bookcase,Bookcase Few,787.8,9,0.41,233.62,7
+CA-2023-1320,2023-05-20,Second Class,Michael Roth,Consumer,West,Furniture,Sofa,Sofa Reduce,96.27,2,0.21,299.36,5
+CA-2024-1321,2024-03-08,First Class,Samantha Miller,Consumer,West,Office Supplies,Storage,Storage Head,882.54,5,0.28,-38.42,3
+CA-2025-1322,2023-05-30,Second Class,Courtney Hopkins,Home Office,West,Office Supplies,Storage,Storage Describe,472.39,1,0.4,10.46,5
+CA-2025-1323,2024-02-18,Standard Class,April Weaver,Consumer,Central,Office Supplies,Paper,Paper Report,983.36,2,0.09,238.95,2
+CA-2024-1324,2023-01-27,Second Class,Alexander Dixon,Home Office,West,Office Supplies,Storage,Storage Parent,185.66,7,0.48,137.31,1
+CA-2024-1325,2024-12-20,First Class,Angela Roberts,Corporate,East,Furniture,Chair,Chair Message,741.58,7,0.28,72.12,12
+CA-2024-1326,2024-11-01,Standard Class,Maria Johnson,Home Office,East,Furniture,Sofa,Sofa Reduce,743.08,3,0.37,290.28,11
+CA-2024-1327,2024-08-10,First Class,Eric Romero,Home Office,East,Technology,Phone,Phone Skin,330.52,4,0.2,199.22,8
+CA-2024-1328,2023-11-20,First Class,Joseph Stanley,Corporate,South,Furniture,Sofa,Sofa Along,796.22,9,0.35,40.98,11
+CA-2024-1329,2024-09-04,Second Class,Roberto Costa,Corporate,East,Furniture,Chair,Chair Often,181.07,8,0.23,-15.37,9
+CA-2024-1330,2024-07-29,First Class,Kurt Levy,Home Office,South,Technology,Printer,Printer So,600.97,10,0.38,291.22,7
+CA-2023-1331,2023-05-21,First Class,Jennifer King,Home Office,South,Technology,Phone,Phone Know,674.42,4,0.35,152.73,5
+CA-2025-1332,2023-07-19,Standard Class,Dr. Michelle Woods PhD,Consumer,West,Office Supplies,Storage,Storage Glass,703.46,8,0.34,227.19,7
+CA-2024-1333,2023-11-29,Second Class,Roger Oliver,Consumer,West,Technology,Monitor,Monitor Place,213.05,8,0.15,173.23,11
+CA-2025-1334,2024-05-16,First Class,Kathleen Johnson,Corporate,Central,Office Supplies,Pen,Pen Support,412.54,8,0.1,132.17,5
+CA-2024-1335,2023-09-07,Second Class,Barry Frost,Corporate,South,Technology,Printer,Printer Structure,683.53,6,0.16,176.76,9
+CA-2024-1336,2024-06-07,Standard Class,John Dalton,Consumer,West,Technology,Printer,Printer History,710.35,3,0.17,206.56,6
+CA-2024-1337,2023-04-21,Second Class,Mr. Jonathan Morgan,Home Office,East,Office Supplies,Pen,Pen Model,410.89,5,0.09,27.74,4
+CA-2023-1338,2024-05-22,Standard Class,Toni Graham,Home Office,South,Technology,Laptop,Laptop Enough,639.37,5,0.44,152.01,5
+CA-2025-1339,2024-10-04,Second Class,Michael Bennett,Corporate,West,Furniture,Chair,Chair Others,894.94,5,0.01,104.84,10
+CA-2025-1340,2023-08-17,First Class,Priscilla Cunningham,Consumer,West,Office Supplies,Binder,Binder Sign,62.64,6,0.05,185.41,8
+CA-2023-1341,2023-08-20,Standard Class,Brenda Barker,Corporate,Central,Furniture,Table,Table Behind,776.42,8,0.21,245.27,8
+CA-2023-1342,2024-09-06,Second Class,Glen Waller,Consumer,East,Technology,Laptop,Laptop By,770.77,9,0.37,-7.52,9
+CA-2024-1343,2024-12-12,Second Class,Alexandra Mercado,Corporate,East,Technology,Laptop,Laptop Draw,738.28,10,0.08,285.27,12
+CA-2023-1344,2023-02-27,First Class,Travis Spence,Corporate,East,Technology,Phone,Phone Major,170.14,7,0.27,161.81,2
+CA-2024-1345,2024-05-23,Standard Class,Ashley Adams,Consumer,South,Furniture,Table,Table Nature,235.83,9,0.02,43.0,5
+CA-2025-1346,2024-06-19,Second Class,Alexandra Choi,Corporate,East,Office Supplies,Pen,Pen Entire,61.76,10,0.16,31.27,6
+CA-2023-1347,2023-06-03,Standard Class,Steven Davis,Corporate,South,Furniture,Bookcase,Bookcase Small,227.41,9,0.49,272.04,6
+CA-2023-1348,2023-09-24,First Class,Kristie Green,Corporate,South,Office Supplies,Paper,Paper Full,45.89,6,0.41,-24.04,9
+CA-2024-1349,2024-09-07,Second Class,Angelica Johnson,Corporate,West,Office Supplies,Pen,Pen Natural,407.03,4,0.33,45.18,9
+CA-2023-1350,2024-02-19,Second Class,Zachary Skinner,Home Office,West,Technology,Printer,Printer Home,920.29,4,0.47,273.13,2
+CA-2025-1351,2023-01-14,Standard Class,Dwayne Moore,Home Office,West,Furniture,Chair,Chair Get,694.16,2,0.43,-42.9,1
+CA-2024-1352,2024-04-08,Second Class,Melissa Schmidt,Corporate,West,Furniture,Chair,Chair Security,646.19,5,0.04,283.43,4
+CA-2025-1353,2024-08-20,Standard Class,Richard Johnson,Consumer,East,Furniture,Table,Table Final,762.8,1,0.47,189.56,8
+CA-2023-1354,2023-03-30,First Class,Olivia Larson,Home Office,Central,Technology,Printer,Printer Here,808.9,1,0.32,-44.22,3
+CA-2025-1355,2024-02-28,Second Class,Kathleen Schmidt,Corporate,East,Technology,Printer,Printer One,768.21,3,0.03,158.77,2
+CA-2023-1356,2023-09-25,Second Class,Amanda Kennedy,Home Office,West,Technology,Phone,Phone Design,173.37,9,0.13,183.6,9
+CA-2025-1357,2023-11-05,Standard Class,Brian Gonzalez,Home Office,West,Office Supplies,Storage,Storage Choice,417.34,6,0.04,81.84,11
+CA-2025-1358,2024-12-26,Second Class,Donna Hall,Corporate,South,Furniture,Bookcase,Bookcase Skin,106.37,10,0.2,166.99,12
+CA-2025-1359,2024-01-26,Standard Class,Mrs. Kelli Salazar,Corporate,Central,Furniture,Sofa,Sofa Real,46.71,5,0.02,111.83,1
+CA-2023-1360,2023-03-07,Standard Class,Erica Williams,Corporate,South,Office Supplies,Paper,Paper Unit,482.34,8,0.27,195.05,3
+CA-2024-1361,2024-02-13,Second Class,Susan Martinez,Home Office,South,Office Supplies,Binder,Binder Story,472.8,1,0.46,247.32,2
+CA-2025-1362,2024-04-09,Second Class,Kevin Johnson,Corporate,Central,Furniture,Sofa,Sofa Treat,376.62,2,0.37,195.98,4
+CA-2024-1363,2024-10-01,First Class,Andrew Ford,Home Office,South,Furniture,Table,Table Despite,224.19,1,0.34,298.59,10
+CA-2025-1364,2023-05-09,Second Class,Rebecca Thomas,Consumer,Central,Technology,Monitor,Monitor Forget,136.07,3,0.44,189.8,5
+CA-2024-1365,2023-01-03,First Class,Robert Wolfe,Corporate,West,Technology,Monitor,Monitor Specific,438.63,7,0.28,27.72,1
+CA-2025-1366,2023-10-05,Standard Class,Gerald Jordan,Home Office,Central,Technology,Phone,Phone Already,900.73,10,0.4,153.15,10
+CA-2024-1367,2023-03-15,First Class,Mary Chapman,Home Office,South,Furniture,Table,Table Visit,326.91,5,0.03,-33.8,3
+CA-2024-1368,2024-08-04,Standard Class,Matthew Williams,Corporate,Central,Technology,Laptop,Laptop Agreement,594.02,6,0.34,133.51,8
+CA-2023-1369,2023-07-22,First Class,Marcus Wright,Consumer,South,Technology,Laptop,Laptop Most,835.84,7,0.06,-43.99,7
+CA-2025-1370,2023-12-12,Second Class,Philip Case,Corporate,Central,Technology,Laptop,Laptop Mention,654.9,10,0.1,-2.31,12
+CA-2024-1371,2023-09-13,Standard Class,Jennifer Bailey,Corporate,South,Furniture,Table,Table Defense,321.7,1,0.21,93.25,9
+CA-2023-1372,2024-04-19,Standard Class,Megan Mccarty,Corporate,West,Furniture,Chair,Chair Central,61.57,2,0.39,-30.72,4
+CA-2024-1373,2023-08-06,First Class,Jodi Hart,Home Office,South,Technology,Phone,Phone Democratic,655.45,8,0.35,41.29,8
+CA-2023-1374,2023-02-17,Second Class,Peggy Blackburn,Home Office,West,Office Supplies,Pen,Pen First,940.0,9,0.18,214.46,2
+CA-2025-1375,2024-04-15,Standard Class,Julie Sanchez,Corporate,East,Office Supplies,Pen,Pen Part,898.67,9,0.3,-28.89,4
+CA-2025-1376,2023-11-22,First Class,April Smith,Home Office,Central,Technology,Printer,Printer Artist,346.61,3,0.13,250.75,11
+CA-2025-1377,2024-01-25,First Class,Karen Walton,Home Office,South,Technology,Printer,Printer Prove,846.2,9,0.03,2.21,1
+CA-2025-1378,2024-08-05,Second Class,David Jones,Corporate,Central,Technology,Printer,Printer Through,261.75,10,0.48,-8.12,8
+CA-2023-1379,2023-10-12,Standard Class,Jennifer Jones,Home Office,West,Office Supplies,Pen,Pen Consumer,429.65,10,0.49,59.14,10
+CA-2024-1380,2024-12-24,First Class,Suzanne Jones,Consumer,East,Technology,Printer,Printer Anything,824.45,6,0.13,-29.56,12
+CA-2025-1381,2023-08-17,First Class,Megan Schmitt,Corporate,West,Office Supplies,Storage,Storage Adult,87.42,1,0.32,-35.62,8
+CA-2024-1382,2023-11-22,Standard Class,Karen Beltran,Corporate,East,Technology,Monitor,Monitor Practice,956.55,8,0.04,136.38,11
+CA-2024-1383,2024-06-29,First Class,Stephanie Garcia,Corporate,East,Technology,Monitor,Monitor Throw,609.29,1,0.21,195.31,6
+CA-2024-1384,2024-06-28,First Class,Amanda Coleman,Home Office,East,Office Supplies,Pen,Pen Travel,930.11,3,0.07,51.57,6
+CA-2025-1385,2024-09-24,Second Class,Kelly Novak,Home Office,South,Furniture,Table,Table Reduce,536.68,2,0.48,143.24,9
+CA-2023-1386,2024-04-20,Standard Class,Robert Cole,Corporate,Central,Technology,Laptop,Laptop Have,414.94,10,0.3,133.07,4
+CA-2024-1387,2023-09-04,Second Class,Jessica Parker,Consumer,Central,Office Supplies,Pen,Pen Action,918.52,4,0.28,170.79,9
+CA-2024-1388,2024-05-19,Standard Class,Rachel Marshall,Consumer,East,Furniture,Sofa,Sofa Writer,867.26,8,0.14,121.49,5
+CA-2023-1389,2024-05-05,Second Class,Katherine Huffman,Home Office,South,Technology,Monitor,Monitor Admit,479.16,10,0.18,77.42,5
+CA-2023-1390,2023-08-16,Second Class,Andrew Lopez,Consumer,Central,Technology,Printer,Printer Lose,626.2,2,0.13,251.88,8
+CA-2025-1391,2024-08-15,Standard Class,James Robinson,Home Office,West,Office Supplies,Binder,Binder Individual,865.95,10,0.07,164.21,8
+CA-2023-1392,2023-06-28,Standard Class,Philip Fowler,Consumer,Central,Office Supplies,Paper,Paper Appear,596.44,8,0.35,113.86,6
+CA-2024-1393,2023-04-01,First Class,Robin Jones,Corporate,East,Furniture,Chair,Chair Available,870.11,9,0.36,130.29,4
+CA-2025-1394,2024-02-20,Standard Class,Donna Cook,Consumer,Central,Furniture,Bookcase,Bookcase Challenge,934.94,1,0.02,-3.88,2
+CA-2023-1395,2024-09-01,Standard Class,Miss Kayla Little DVM,Corporate,South,Furniture,Chair,Chair Owner,857.9,10,0.35,97.48,9
+CA-2023-1396,2023-12-14,Standard Class,Kayla Johnson,Corporate,South,Furniture,Sofa,Sofa Share,338.67,9,0.47,81.15,12
+CA-2023-1397,2024-09-21,First Class,James Rivera,Consumer,Central,Furniture,Table,Table Class,336.24,10,0.29,37.81,9
+CA-2023-1398,2024-06-28,Second Class,Angela Spencer,Consumer,West,Office Supplies,Pen,Pen Article,73.9,2,0.43,31.2,6
+CA-2025-1399,2023-12-09,Standard Class,Daniel Wood,Home Office,West,Furniture,Sofa,Sofa Father,316.09,7,0.08,109.5,12
+CA-2023-1400,2024-06-30,Standard Class,Lisa Sanchez,Consumer,South,Office Supplies,Storage,Storage Enjoy,280.97,6,0.14,19.48,6
+CA-2025-1401,2023-01-04,First Class,Robert Lee,Consumer,East,Technology,Monitor,Monitor Tax,372.11,6,0.36,63.03,1
+CA-2023-1402,2024-11-07,Second Class,Thomas Miller,Corporate,West,Furniture,Table,Table Ten,647.2,10,0.19,80.53,11
+CA-2024-1403,2023-12-17,First Class,Dorothy Howell,Corporate,Central,Furniture,Bookcase,Bookcase Movie,379.11,8,0.1,207.08,12
+CA-2025-1404,2024-03-06,Second Class,Michelle Nichols,Corporate,South,Furniture,Sofa,Sofa Mother,211.07,1,0.35,68.95,3
+CA-2024-1405,2024-06-16,Standard Class,Brent Brooks,Consumer,Central,Furniture,Table,Table Type,245.45,8,0.38,252.77,6
+CA-2024-1406,2023-04-16,Standard Class,Elizabeth Spears,Corporate,West,Technology,Phone,Phone Role,661.38,10,0.49,-36.18,4
+CA-2024-1407,2024-11-20,Second Class,Shawn Rios,Home Office,Central,Technology,Laptop,Laptop Day,551.84,5,0.09,186.0,11
+CA-2024-1408,2023-03-22,Standard Class,Samantha Gallagher,Consumer,East,Furniture,Bookcase,Bookcase Because,725.46,7,0.5,232.95,3
+CA-2023-1409,2024-11-26,First Class,Melanie Lawrence,Home Office,Central,Furniture,Chair,Chair Pull,282.5,6,0.13,98.1,11
+CA-2024-1410,2023-12-29,Second Class,Crystal James,Home Office,Central,Furniture,Bookcase,Bookcase Modern,62.92,8,0.42,-31.51,12
+CA-2025-1411,2024-02-14,Second Class,Larry Chambers,Consumer,South,Technology,Phone,Phone Then,812.08,4,0.49,274.91,2
+CA-2023-1412,2024-08-04,First Class,Matthew Wilson,Home Office,Central,Furniture,Table,Table Activity,649.27,4,0.18,26.38,8
+CA-2023-1413,2024-02-23,Second Class,Hannah Martin,Corporate,East,Furniture,Bookcase,Bookcase Hit,670.84,9,0.42,174.4,2
+CA-2024-1414,2023-06-05,First Class,Timothy Curtis,Home Office,South,Technology,Printer,Printer Plan,683.06,5,0.45,179.36,6
+CA-2024-1415,2024-12-30,Standard Class,Heather Fisher,Corporate,West,Technology,Monitor,Monitor Knowledge,352.74,9,0.13,226.42,12
+CA-2023-1416,2024-08-13,Second Class,Russell Haynes,Consumer,South,Technology,Printer,Printer Newspaper,92.68,10,0.22,289.07,8
+CA-2025-1417,2023-04-15,Standard Class,Douglas Maynard,Consumer,Central,Technology,Phone,Phone Hour,294.9,4,0.03,74.74,4
+CA-2025-1418,2023-06-19,First Class,Vincent Rojas,Home Office,South,Technology,Monitor,Monitor Reduce,167.07,3,0.21,227.59,6
+CA-2025-1419,2023-08-18,Second Class,Steven Weeks,Home Office,West,Technology,Monitor,Monitor Establish,784.53,5,0.15,15.62,8
+CA-2023-1420,2023-01-25,First Class,Krystal Velasquez,Home Office,West,Furniture,Bookcase,Bookcase Bad,238.21,7,0.1,54.7,1
+CA-2023-1421,2024-10-18,Second Class,William Taylor,Home Office,Central,Technology,Monitor,Monitor Suffer,580.15,2,0.04,3.81,10
+CA-2025-1422,2024-10-14,Standard Class,Francisco Franklin,Corporate,South,Technology,Printer,Printer End,113.2,10,0.39,62.81,10
+CA-2025-1423,2023-02-05,First Class,Brittany Buchanan,Corporate,East,Furniture,Chair,Chair Industry,469.27,9,0.02,147.76,2
+CA-2024-1424,2023-07-08,Second Class,Adam Smith,Consumer,East,Technology,Phone,Phone Seat,508.66,9,0.18,259.11,7
+CA-2023-1425,2024-10-04,Second Class,Michael Barrett,Consumer,Central,Technology,Phone,Phone Would,396.81,6,0.21,92.73,10
+CA-2025-1426,2024-11-21,Second Class,Travis Rodriguez,Corporate,Central,Technology,Phone,Phone Available,499.4,6,0.49,158.69,11
+CA-2023-1427,2023-04-22,First Class,Logan Galvan,Consumer,Central,Office Supplies,Pen,Pen Economic,517.47,7,0.35,258.28,4
+CA-2023-1428,2023-01-03,First Class,Melinda Phillips,Corporate,Central,Furniture,Sofa,Sofa Rise,901.99,8,0.35,70.75,1
+CA-2023-1429,2024-09-22,Standard Class,Pamela Rowland,Corporate,East,Furniture,Table,Table Foot,959.19,2,0.34,126.74,9
+CA-2025-1430,2024-06-20,Standard Class,Alexis Austin,Consumer,South,Furniture,Table,Table Create,719.25,4,0.07,-7.57,6
+CA-2024-1431,2024-06-10,Second Class,Steven Jones,Home Office,East,Technology,Printer,Printer Positive,645.52,6,0.22,240.49,6
+CA-2023-1432,2023-09-16,First Class,Robert Hamilton,Home Office,Central,Furniture,Chair,Chair Decade,267.91,3,0.46,292.26,9
+CA-2023-1433,2024-10-24,Standard Class,Vanessa Fuentes,Home Office,South,Office Supplies,Storage,Storage Experience,172.93,6,0.43,210.53,10
+CA-2024-1434,2023-07-03,Second Class,Eric Sullivan,Consumer,East,Office Supplies,Paper,Paper Three,22.84,8,0.24,201.15,7
+CA-2024-1435,2024-04-27,Second Class,Oscar Thomas,Home Office,South,Furniture,Sofa,Sofa Assume,92.3,8,0.45,51.79,4
+CA-2023-1436,2024-02-20,Second Class,Lacey Rios,Home Office,East,Office Supplies,Binder,Binder Our,380.81,1,0.22,75.69,2
+CA-2024-1437,2023-10-31,Second Class,Angel Smith,Home Office,Central,Furniture,Chair,Chair Weight,194.37,9,0.06,115.31,10
+CA-2025-1438,2024-03-12,First Class,Matthew Scott,Consumer,South,Technology,Laptop,Laptop Message,898.06,6,0.08,170.33,3
+CA-2023-1439,2024-07-11,Standard Class,Megan Eaton,Corporate,East,Office Supplies,Paper,Paper Particularly,124.12,10,0.15,64.09,7
+CA-2025-1440,2024-06-28,First Class,Regina Wilson,Home Office,West,Furniture,Sofa,Sofa Quality,169.67,3,0.2,276.11,6
+CA-2025-1441,2023-04-10,First Class,Diane Crawford,Home Office,West,Office Supplies,Pen,Pen Past,22.39,1,0.41,10.94,4
+CA-2023-1442,2023-03-18,Standard Class,Mr. Eric Deleon,Consumer,South,Furniture,Chair,Chair Standard,775.36,4,0.35,219.72,3
+CA-2025-1443,2023-12-31,Standard Class,Jennifer Wagner,Home Office,West,Technology,Laptop,Laptop Money,409.4,2,0.37,27.97,12
+CA-2024-1444,2024-12-07,Second Class,Cheryl Savage,Home Office,East,Furniture,Sofa,Sofa Card,399.78,7,0.01,255.73,12
+CA-2023-1445,2024-03-27,Second Class,Cynthia Thompson,Corporate,East,Technology,Phone,Phone Pay,50.64,3,0.28,34.44,3
+CA-2024-1446,2024-04-16,Second Class,Christian Hunt,Consumer,Central,Furniture,Chair,Chair Maintain,917.51,3,0.42,220.54,4
+CA-2023-1447,2023-05-19,Standard Class,Lori Stevens MD,Corporate,Central,Furniture,Sofa,Sofa Cut,466.9,4,0.41,89.75,5
+CA-2025-1448,2023-06-01,Standard Class,Jon Estrada,Consumer,West,Office Supplies,Paper,Paper Director,306.69,4,0.28,101.91,6
+CA-2025-1449,2023-12-05,Second Class,Julian Miller,Home Office,South,Technology,Monitor,Monitor Trial,555.64,2,0.37,44.33,12
+CA-2023-1450,2023-04-08,Standard Class,Paul Johnson,Consumer,Central,Office Supplies,Paper,Paper Old,707.79,4,0.07,238.1,4
+CA-2024-1451,2024-03-31,Second Class,Brian Rogers,Corporate,East,Technology,Laptop,Laptop Matter,628.76,4,0.08,281.14,3
+CA-2024-1452,2023-01-16,First Class,John Taylor,Corporate,West,Office Supplies,Pen,Pen Across,409.1,3,0.13,274.21,1
+CA-2025-1453,2024-08-07,Second Class,Jordan Frazier,Consumer,East,Technology,Monitor,Monitor Bag,592.82,9,0.45,81.88,8
+CA-2024-1454,2024-09-05,Second Class,Kelli Lin,Home Office,West,Furniture,Sofa,Sofa Section,258.86,4,0.05,68.72,9
+CA-2024-1455,2024-02-29,First Class,Kimberly Vega,Consumer,East,Technology,Printer,Printer Fund,817.56,4,0.17,-46.7,2
+CA-2025-1456,2023-12-21,Standard Class,Rebecca Morales,Corporate,East,Technology,Monitor,Monitor Trial,593.45,10,0.02,229.67,12
+CA-2023-1457,2023-08-25,Standard Class,Jeffrey Cannon,Home Office,South,Furniture,Table,Table Hand,979.88,7,0.43,45.71,8
+CA-2024-1458,2024-08-02,First Class,Anthony Stewart,Home Office,East,Office Supplies,Pen,Pen Stand,26.17,3,0.18,140.96,8
+CA-2024-1459,2023-06-04,Standard Class,Jennifer Evans,Consumer,West,Furniture,Table,Table Like,762.18,3,0.29,69.32,6
+CA-2025-1460,2023-08-17,Standard Class,Leslie Williams,Corporate,South,Office Supplies,Paper,Paper Land,454.95,6,0.31,192.5,8
+CA-2023-1461,2024-12-07,First Class,Deborah Jacobson,Consumer,East,Technology,Laptop,Laptop Far,624.4,2,0.15,112.34,12
+CA-2025-1462,2024-07-31,Standard Class,Cindy Lara,Home Office,South,Technology,Printer,Printer Executive,646.53,6,0.28,126.95,7
+CA-2025-1463,2023-06-03,Second Class,Robert Martinez,Corporate,East,Office Supplies,Storage,Storage Age,976.92,4,0.49,-11.31,6
+CA-2024-1464,2023-03-13,Second Class,Christopher Ritter,Consumer,East,Furniture,Bookcase,Bookcase Have,390.06,4,0.48,239.24,3
+CA-2023-1465,2024-05-13,Standard Class,Michael Williams,Consumer,South,Furniture,Sofa,Sofa Author,784.05,1,0.03,297.22,5
+CA-2023-1466,2024-09-11,First Class,Theresa Boone,Corporate,Central,Technology,Printer,Printer Debate,469.83,9,0.07,-13.17,9
+CA-2025-1467,2024-07-15,First Class,Ashley Allen,Consumer,South,Technology,Printer,Printer Black,950.64,7,0.24,271.1,7
+CA-2024-1468,2023-05-12,First Class,Joseph Peters,Corporate,South,Furniture,Sofa,Sofa Behind,947.03,8,0.18,161.15,5
+CA-2024-1469,2024-09-02,Standard Class,Jacob Mason,Consumer,Central,Furniture,Table,Table Usually,702.05,1,0.35,49.48,9
+CA-2023-1470,2024-10-07,First Class,Timothy Young,Home Office,Central,Furniture,Chair,Chair Bad,202.62,2,0.17,7.64,10
+CA-2024-1471,2023-09-30,Standard Class,Heather Butler,Consumer,Central,Technology,Laptop,Laptop Road,566.04,2,0.33,104.03,9
+CA-2024-1472,2023-09-03,Second Class,Alex Lee,Corporate,East,Furniture,Chair,Chair Pattern,634.4,3,0.35,168.19,9
+CA-2023-1473,2024-11-18,Standard Class,Walter Mcdonald,Consumer,West,Furniture,Table,Table Think,283.31,6,0.13,171.45,11
+CA-2024-1474,2023-03-13,First Class,Daniel Hall,Home Office,Central,Office Supplies,Binder,Binder Week,979.76,1,0.49,95.62,3
+CA-2025-1475,2024-07-03,First Class,Daniel Hall,Home Office,East,Technology,Monitor,Monitor Man,797.05,5,0.0,168.36,7
+CA-2024-1476,2024-08-05,Standard Class,Hannah Jones,Corporate,Central,Office Supplies,Binder,Binder Type,753.36,10,0.01,238.11,8
+CA-2024-1477,2024-04-29,First Class,Daniel Diaz,Corporate,South,Office Supplies,Binder,Binder Watch,103.95,4,0.18,32.41,4
+CA-2023-1478,2024-01-04,Second Class,Dennis Davis,Home Office,Central,Technology,Phone,Phone Data,639.3,3,0.42,249.63,1
+CA-2025-1479,2023-05-27,Standard Class,Jacob Ellis,Home Office,South,Office Supplies,Pen,Pen Project,287.57,5,0.38,158.35,5
+CA-2025-1480,2023-06-29,Second Class,Thomas Burton,Home Office,South,Technology,Laptop,Laptop Hotel,289.12,4,0.14,229.71,6
+CA-2023-1481,2023-02-24,First Class,Michelle Collier,Corporate,South,Technology,Laptop,Laptop Fire,316.71,1,0.41,134.37,2
+CA-2024-1482,2024-01-05,Standard Class,Dakota Wilson,Home Office,East,Furniture,Bookcase,Bookcase Hot,902.67,4,0.01,-10.39,1
+CA-2025-1483,2023-06-03,Standard Class,Paul Morales,Home Office,East,Furniture,Table,Table Item,133.73,9,0.21,148.96,6
+CA-2025-1484,2024-03-31,Standard Class,Micheal Shields,Home Office,East,Technology,Printer,Printer Friend,303.48,7,0.02,240.26,3
+CA-2024-1485,2024-10-31,Standard Class,Kayla Rogers,Consumer,West,Technology,Printer,Printer Resource,71.3,9,0.46,136.9,10
+CA-2023-1486,2024-12-30,First Class,Jennifer Jones,Consumer,Central,Furniture,Sofa,Sofa Plant,862.13,4,0.41,205.53,12
+CA-2023-1487,2023-12-08,Standard Class,Jon Cruz DVM,Home Office,Central,Technology,Phone,Phone Listen,365.4,5,0.19,272.67,12
+CA-2025-1488,2024-04-18,Standard Class,Michael Chavez,Home Office,South,Technology,Printer,Printer Debate,514.52,2,0.03,-29.94,4
+CA-2023-1489,2023-04-23,First Class,Scott Freeman,Corporate,South,Office Supplies,Paper,Paper Large,569.34,5,0.12,108.05,4
+CA-2023-1490,2023-12-05,First Class,Tracie Rivers,Corporate,Central,Furniture,Bookcase,Bookcase Appear,124.13,4,0.17,-19.59,12
+CA-2023-1491,2024-02-16,Standard Class,Katie Anderson,Home Office,South,Technology,Phone,Phone Help,238.68,2,0.18,37.55,2
+CA-2025-1492,2023-04-04,First Class,Karen Warner,Corporate,West,Technology,Printer,Printer Worry,409.61,3,0.38,71.75,4
+CA-2025-1493,2023-02-17,Second Class,Ian Green,Home Office,East,Technology,Laptop,Laptop Likely,186.81,2,0.07,219.67,2
+CA-2023-1494,2024-12-08,Second Class,Samantha Robertson,Corporate,East,Office Supplies,Paper,Paper Chair,403.23,1,0.22,97.38,12
+CA-2025-1495,2023-05-18,Second Class,Christine Garcia,Corporate,West,Furniture,Chair,Chair Name,418.86,1,0.04,-2.47,5
+CA-2023-1496,2024-10-07,First Class,Bruce Porter,Corporate,Central,Office Supplies,Pen,Pen Fight,970.09,1,0.46,205.86,10
+CA-2024-1497,2024-03-14,First Class,Kevin Rosales,Home Office,Central,Technology,Phone,Phone Street,972.17,3,0.38,292.6,3
+CA-2025-1498,2023-06-09,First Class,Michelle Martinez,Consumer,East,Office Supplies,Paper,Paper Cause,613.35,1,0.16,250.89,6
+CA-2023-1499,2024-11-06,Second Class,Lauren Andrews,Consumer,West,Furniture,Sofa,Sofa Down,967.52,7,0.04,192.13,11
+CA-2025-1500,2023-07-18,Standard Class,Jonathan Vang,Home Office,Central,Furniture,Bookcase,Bookcase Step,647.22,3,0.4,36.87,7
+CA-2024-1501,2024-02-26,First Class,Alison Marks,Consumer,East,Furniture,Table,Table Student,610.81,6,0.45,266.52,2
+CA-2024-1502,2024-10-02,Standard Class,Stacie Hunt,Corporate,South,Technology,Printer,Printer Team,103.32,4,0.16,-22.53,10
+CA-2023-1503,2023-08-31,Second Class,Alejandra Jones,Consumer,South,Furniture,Sofa,Sofa Ask,578.18,8,0.25,79.16,8
+CA-2023-1504,2024-03-07,Second Class,Stephanie Lynch,Home Office,Central,Technology,Phone,Phone My,99.18,2,0.08,93.0,3
+CA-2024-1505,2024-03-06,Second Class,Jennifer Jackson,Home Office,South,Office Supplies,Binder,Binder Yourself,196.37,2,0.01,260.7,3
+CA-2025-1506,2024-12-03,Second Class,Autumn Martin,Corporate,Central,Office Supplies,Storage,Storage Trouble,333.33,3,0.02,299.42,12
+CA-2023-1507,2024-12-16,Second Class,Carol Harris,Corporate,West,Office Supplies,Binder,Binder Person,501.76,3,0.31,219.22,12
+CA-2025-1508,2023-11-10,First Class,Lauren Boone,Corporate,South,Office Supplies,Binder,Binder Ask,752.5,3,0.29,33.68,11
+CA-2024-1509,2023-07-15,Second Class,Roberta Jones,Home Office,South,Technology,Monitor,Monitor Knowledge,73.17,7,0.11,131.16,7
+CA-2025-1510,2023-02-22,First Class,Mrs. Mary Jones,Consumer,West,Furniture,Sofa,Sofa Require,608.45,1,0.24,8.84,2
+CA-2023-1511,2023-12-31,Standard Class,Timothy Hall,Home Office,Central,Office Supplies,Storage,Storage Through,447.46,1,0.2,208.51,12
+CA-2024-1512,2024-05-16,Standard Class,Rebecca Beck,Corporate,Central,Office Supplies,Binder,Binder Hope,825.49,6,0.35,160.49,5
+CA-2024-1513,2023-02-02,Second Class,Erica Mccoy,Home Office,Central,Office Supplies,Paper,Paper Per,413.06,7,0.13,144.5,2
+CA-2024-1514,2024-10-29,Second Class,Andre King,Home Office,East,Technology,Monitor,Monitor Assume,773.61,10,0.13,293.57,10
+CA-2023-1515,2024-04-17,First Class,Stephen Jimenez,Consumer,South,Furniture,Chair,Chair Build,986.26,5,0.13,224.12,4
+CA-2024-1516,2024-10-03,Second Class,Rachel Mccarty,Consumer,East,Technology,Printer,Printer Section,536.51,7,0.09,102.67,10
+CA-2024-1517,2024-05-16,Standard Class,Eric Arias,Consumer,Central,Furniture,Table,Table Size,322.62,5,0.41,291.47,5
+CA-2024-1518,2023-01-26,First Class,Christopher Gonzalez,Home Office,East,Furniture,Bookcase,Bookcase Her,531.25,7,0.06,25.9,1
+CA-2024-1519,2023-02-02,First Class,Amanda Mendoza,Corporate,South,Office Supplies,Paper,Paper Crime,95.2,10,0.37,75.76,2
+CA-2025-1520,2024-06-20,First Class,Kelsey Simpson,Corporate,East,Technology,Printer,Printer Seat,749.16,4,0.17,-30.33,6
+CA-2023-1521,2024-03-07,Second Class,Ernest Trevino,Home Office,Central,Technology,Printer,Printer Any,46.92,1,0.37,-1.43,3
+CA-2023-1522,2024-09-20,First Class,Beth Horne,Home Office,South,Office Supplies,Binder,Binder Attention,582.16,7,0.23,140.16,9
+CA-2024-1523,2024-08-28,First Class,Jennifer Guerrero,Consumer,South,Furniture,Sofa,Sofa Explain,314.79,7,0.43,71.71,8
+CA-2024-1524,2023-06-02,Second Class,Samantha Evans,Consumer,South,Furniture,Bookcase,Bookcase Authority,316.41,4,0.38,170.04,6
+CA-2024-1525,2023-04-16,Second Class,Eric Turner,Home Office,East,Furniture,Sofa,Sofa Inside,656.0,3,0.27,44.01,4
+CA-2024-1526,2023-05-31,First Class,Beverly Newman,Home Office,Central,Furniture,Bookcase,Bookcase Rest,413.67,6,0.17,68.52,5
+CA-2023-1527,2023-08-18,First Class,Jacob Durham,Home Office,Central,Office Supplies,Binder,Binder See,175.43,2,0.17,-17.87,8
+CA-2023-1528,2023-05-31,First Class,Denise Benitez,Consumer,South,Furniture,Chair,Chair Write,860.78,3,0.29,127.97,5
+CA-2024-1529,2024-09-06,Standard Class,Christopher Simpson,Home Office,Central,Furniture,Table,Table Difference,731.78,6,0.19,98.16,9
+CA-2025-1530,2024-04-14,First Class,Eric Garcia,Corporate,Central,Technology,Laptop,Laptop Hear,383.22,8,0.02,168.74,4
+CA-2025-1531,2024-07-29,Second Class,Sarah Smith,Home Office,South,Office Supplies,Binder,Binder Lot,921.44,10,0.17,48.65,7
+CA-2025-1532,2023-10-23,First Class,Gary Hill,Corporate,East,Furniture,Table,Table Page,672.07,1,0.27,-19.07,10
+CA-2023-1533,2023-01-07,Second Class,Leon Acosta Jr.,Home Office,South,Furniture,Sofa,Sofa Character,701.37,6,0.43,-43.29,1
+CA-2025-1534,2024-10-27,First Class,Mike Rodriguez,Corporate,East,Office Supplies,Paper,Paper Factor,240.76,1,0.49,51.26,10
+CA-2023-1535,2023-04-13,Standard Class,Larry Klein,Home Office,West,Furniture,Table,Table Attention,387.16,4,0.03,-19.41,4
+CA-2025-1536,2024-09-22,Second Class,Katherine Curtis,Corporate,Central,Furniture,Chair,Chair Any,888.34,6,0.28,147.22,9
+CA-2024-1537,2024-03-25,Standard Class,Jennifer Newman,Consumer,Central,Technology,Laptop,Laptop Whatever,331.05,7,0.0,164.57,3
+CA-2023-1538,2024-04-29,Second Class,Austin Velez,Corporate,South,Technology,Printer,Printer Ahead,844.39,8,0.09,152.36,4
+CA-2024-1539,2023-06-18,Standard Class,Stephen Arnold,Consumer,East,Office Supplies,Pen,Pen Possible,455.15,6,0.49,-8.49,6
+CA-2023-1540,2024-08-07,Second Class,Anna Sims,Consumer,South,Office Supplies,Binder,Binder Medical,833.98,8,0.12,187.85,8
+CA-2024-1541,2023-01-11,Second Class,Benjamin Moore,Corporate,Central,Furniture,Chair,Chair Write,816.48,6,0.12,19.92,1
+CA-2024-1542,2023-02-21,First Class,Dustin Schwartz,Home Office,Central,Furniture,Bookcase,Bookcase Ok,346.1,1,0.01,240.96,2
+CA-2023-1543,2024-01-27,First Class,Darlene Santana,Corporate,Central,Technology,Laptop,Laptop Positive,202.97,10,0.33,105.93,1
+CA-2025-1544,2024-08-07,First Class,Joseph Durham,Corporate,South,Furniture,Chair,Chair Stuff,289.29,9,0.04,285.0,8
+CA-2025-1545,2024-03-29,First Class,William Lowery,Corporate,West,Office Supplies,Paper,Paper Agency,149.06,10,0.17,252.73,3
+CA-2023-1546,2024-06-17,First Class,Derrick Martinez,Corporate,Central,Furniture,Chair,Chair Address,162.16,7,0.29,8.76,6
+CA-2023-1547,2024-07-18,Second Class,Carmen Hughes,Corporate,West,Technology,Printer,Printer Mouth,639.95,7,0.43,57.74,7
+CA-2025-1548,2023-12-14,First Class,John Strickland,Corporate,East,Technology,Phone,Phone Arrive,277.57,9,0.27,260.35,12
+CA-2023-1549,2024-09-30,First Class,Jake Peterson,Consumer,South,Furniture,Sofa,Sofa Center,407.08,9,0.26,56.58,9
+CA-2025-1550,2024-08-12,Standard Class,Erica Walker,Corporate,West,Office Supplies,Storage,Storage Fine,65.03,5,0.16,15.91,8
+CA-2024-1551,2023-04-10,Second Class,Robin Johnson,Consumer,East,Furniture,Table,Table Surface,634.49,1,0.24,281.96,4
+CA-2024-1552,2024-04-22,Second Class,Carol Johnson,Corporate,East,Furniture,Sofa,Sofa Anyone,215.42,4,0.0,-30.6,4
+CA-2024-1553,2023-09-26,Standard Class,Kaylee Davidson,Consumer,South,Office Supplies,Binder,Binder Range,325.0,7,0.49,217.11,9
+CA-2024-1554,2023-03-26,Standard Class,Andrea Clarke,Home Office,Central,Office Supplies,Pen,Pen Appear,257.46,1,0.14,201.53,3
+CA-2025-1555,2023-06-30,First Class,Sharon Curtis,Consumer,West,Office Supplies,Pen,Pen Back,647.79,9,0.25,111.3,6
+CA-2025-1556,2023-01-02,Standard Class,Dale Collins,Corporate,East,Office Supplies,Storage,Storage Price,585.34,3,0.35,102.68,1
+CA-2023-1557,2023-02-16,Standard Class,Michael Hopkins,Corporate,East,Office Supplies,Paper,Paper Themselves,496.92,7,0.09,161.27,2
+CA-2025-1558,2024-02-26,Standard Class,Randy Macias,Corporate,East,Office Supplies,Storage,Storage Different,867.67,3,0.2,20.03,2
+CA-2024-1559,2023-07-29,Standard Class,Kelli Boyer,Consumer,Central,Technology,Monitor,Monitor If,392.22,2,0.38,25.11,7
+CA-2023-1560,2023-10-31,First Class,Albert Cruz,Corporate,East,Technology,Monitor,Monitor Throw,630.13,1,0.37,-10.76,10
+CA-2024-1561,2024-08-22,Standard Class,Cassidy Perez,Consumer,East,Technology,Printer,Printer Than,586.42,4,0.22,185.31,8
+CA-2023-1562,2023-03-29,Second Class,Leslie Weaver,Home Office,Central,Office Supplies,Paper,Paper Here,966.1,6,0.18,144.28,3
+CA-2024-1563,2023-05-12,Second Class,Douglas Porter,Home Office,East,Office Supplies,Paper,Paper Around,325.93,4,0.34,26.55,5
+CA-2025-1564,2024-08-16,Standard Class,William Stevens,Consumer,South,Office Supplies,Pen,Pen Process,676.4,7,0.15,-1.26,8
+CA-2023-1565,2024-05-11,Second Class,Joseph George,Consumer,South,Office Supplies,Paper,Paper Floor,971.27,10,0.29,-35.68,5
+CA-2025-1566,2023-05-11,Second Class,Elizabeth Raymond,Corporate,West,Furniture,Sofa,Sofa Lay,323.16,8,0.06,176.27,5
+CA-2023-1567,2023-01-24,First Class,Amanda Taylor,Consumer,South,Technology,Phone,Phone Eat,273.98,10,0.01,147.65,1
+CA-2023-1568,2023-04-14,First Class,Gabrielle Lawrence,Home Office,South,Technology,Phone,Phone Rise,482.7,2,0.27,237.09,4
+CA-2024-1569,2024-07-05,First Class,Cody Escobar,Home Office,Central,Furniture,Chair,Chair Out,64.0,8,0.07,-49.88,7
+CA-2023-1570,2024-03-31,Standard Class,Jerry Edwards,Home Office,East,Office Supplies,Binder,Binder Everyone,766.57,6,0.07,-20.47,3
+CA-2024-1571,2023-12-04,First Class,David Gonzalez,Home Office,South,Technology,Laptop,Laptop Material,491.43,3,0.09,261.48,12
+CA-2025-1572,2024-04-02,Standard Class,Craig Jackson,Consumer,East,Office Supplies,Binder,Binder Town,843.23,3,0.23,246.87,4
+CA-2024-1573,2023-07-16,Second Class,Eric Sutton,Consumer,East,Technology,Phone,Phone Necessary,129.0,10,0.15,29.02,7
+CA-2025-1574,2024-06-16,Standard Class,Samuel Soto,Home Office,South,Office Supplies,Pen,Pen Part,636.02,10,0.21,216.18,6
+CA-2024-1575,2023-09-27,First Class,Janet Andrews,Consumer,Central,Office Supplies,Paper,Paper Enjoy,959.48,4,0.28,-24.36,9
+CA-2023-1576,2023-08-21,Standard Class,Timothy Thomas,Consumer,South,Technology,Monitor,Monitor Rich,709.25,7,0.38,211.32,8
+CA-2024-1577,2024-03-10,Standard Class,James Stewart,Consumer,West,Office Supplies,Binder,Binder First,792.11,7,0.1,244.19,3
+CA-2023-1578,2024-09-07,Second Class,Lauren Thompson,Home Office,Central,Technology,Monitor,Monitor Manage,924.87,1,0.43,118.41,9
+CA-2025-1579,2023-12-19,First Class,Diana Martin,Corporate,West,Furniture,Table,Table Care,245.33,4,0.41,234.04,12
+CA-2025-1580,2023-07-15,Second Class,Jackie Ferguson,Home Office,Central,Office Supplies,Binder,Binder A,210.01,2,0.39,116.1,7
+CA-2024-1581,2024-06-15,Second Class,Catherine Nelson,Consumer,West,Technology,Phone,Phone Threat,305.34,4,0.08,119.06,6
+CA-2025-1582,2023-07-19,First Class,Ashley Smith,Corporate,West,Technology,Printer,Printer Him,750.6,10,0.36,207.38,7
+CA-2024-1583,2023-04-30,Standard Class,Gail Aguirre,Home Office,Central,Furniture,Chair,Chair Magazine,60.3,9,0.12,229.9,4
+CA-2025-1584,2023-12-04,First Class,Kevin Craig,Corporate,South,Technology,Printer,Printer Important,910.77,9,0.42,271.58,12
+CA-2024-1585,2024-10-08,Standard Class,Jennifer Duran,Home Office,East,Technology,Phone,Phone Bill,891.91,4,0.06,59.49,10
+CA-2024-1586,2024-08-01,First Class,Caleb Cobb,Corporate,South,Furniture,Sofa,Sofa Finish,383.81,1,0.22,157.26,8
+CA-2024-1587,2024-06-11,Second Class,Kimberly Rogers,Home Office,Central,Technology,Monitor,Monitor Visit,311.82,7,0.25,193.92,6
+CA-2024-1588,2024-08-06,Second Class,Laura Mcgee,Home Office,South,Technology,Monitor,Monitor Expert,115.39,8,0.37,18.85,8
+CA-2023-1589,2023-03-24,First Class,Tamara Mendez,Home Office,West,Technology,Printer,Printer Indicate,823.36,8,0.29,-15.3,3
+CA-2024-1590,2023-09-29,First Class,Gary Becker,Corporate,East,Furniture,Sofa,Sofa Certain,351.43,10,0.33,47.09,9
+CA-2023-1591,2023-11-25,Standard Class,Kenneth Jackson,Corporate,West,Furniture,Bookcase,Bookcase Test,321.96,6,0.41,-1.73,11
+CA-2023-1592,2024-09-20,Second Class,Madison Roberts,Home Office,West,Office Supplies,Paper,Paper Start,125.32,8,0.49,172.27,9
+CA-2024-1593,2024-11-29,First Class,Stacey Jones,Consumer,Central,Technology,Monitor,Monitor If,142.48,5,0.06,-27.21,11
+CA-2025-1594,2024-01-05,First Class,Steven Gallagher,Corporate,South,Furniture,Table,Table Manager,485.17,2,0.04,280.49,1
+CA-2025-1595,2023-01-26,First Class,Lauren Baker,Corporate,East,Technology,Printer,Printer Without,161.96,2,0.33,152.24,1
+CA-2025-1596,2024-08-20,Standard Class,Joseph Baldwin,Consumer,Central,Furniture,Bookcase,Bookcase Letter,123.14,10,0.47,-13.88,8
+CA-2025-1597,2024-01-14,First Class,David Whitaker MD,Home Office,East,Office Supplies,Binder,Binder Visit,767.33,7,0.3,117.54,1
+CA-2025-1598,2023-07-11,First Class,Debra Silva,Home Office,East,Technology,Printer,Printer Yard,79.9,9,0.48,53.88,7
+CA-2023-1599,2024-08-04,First Class,Andrea Tucker,Home Office,Central,Technology,Monitor,Monitor Artist,623.5,1,0.22,66.67,8
+CA-2025-1600,2024-07-06,Second Class,Daniel Bennett,Consumer,West,Furniture,Sofa,Sofa Physical,680.54,9,0.23,146.39,7
+CA-2024-1601,2023-06-21,Standard Class,Tim Martinez,Consumer,East,Office Supplies,Paper,Paper Own,156.34,9,0.42,-8.7,6
+CA-2024-1602,2024-01-03,Second Class,Jennifer Burnett,Consumer,Central,Furniture,Table,Table Market,717.95,9,0.05,292.49,1
+CA-2023-1603,2023-12-04,Second Class,Jason Delgado,Corporate,South,Technology,Monitor,Monitor Affect,366.71,9,0.15,-11.58,12
+CA-2024-1604,2023-06-15,Standard Class,Alexis Myers,Home Office,East,Office Supplies,Paper,Paper Outside,588.74,9,0.11,299.45,6
+CA-2024-1605,2024-06-22,Second Class,James Johnson,Consumer,South,Furniture,Bookcase,Bookcase Matter,142.66,1,0.03,53.97,6
+CA-2023-1606,2023-08-11,Second Class,Katherine Turner,Home Office,West,Technology,Laptop,Laptop Fact,599.45,9,0.12,113.6,8
+CA-2023-1607,2023-04-01,Standard Class,Eugene Nelson,Consumer,East,Furniture,Chair,Chair Wall,72.11,4,0.15,46.81,4
+CA-2024-1608,2023-05-17,First Class,Lori Hubbard,Home Office,West,Furniture,Table,Table Source,101.99,7,0.4,-32.13,5
+CA-2025-1609,2023-09-04,Standard Class,Joel Moses,Consumer,South,Technology,Phone,Phone Run,846.04,6,0.03,115.63,9
+CA-2025-1610,2024-05-13,Standard Class,Ralph Lynch,Home Office,Central,Technology,Monitor,Monitor Husband,109.29,1,0.1,280.47,5
+CA-2024-1611,2023-11-23,First Class,Stephen Gray,Consumer,Central,Furniture,Sofa,Sofa Safe,671.62,4,0.12,106.66,11
+CA-2023-1612,2024-06-29,Standard Class,David Ponce,Corporate,Central,Furniture,Chair,Chair Fund,647.89,6,0.38,-24.73,6
+CA-2025-1613,2023-12-04,Standard Class,Barbara Rodriguez,Corporate,East,Office Supplies,Pen,Pen Five,534.88,3,0.18,140.75,12
+CA-2024-1614,2024-09-28,First Class,Sheri Fields,Corporate,South,Technology,Phone,Phone Not,199.6,2,0.41,41.35,9
+CA-2025-1615,2024-04-03,Standard Class,William Pearson,Corporate,South,Technology,Monitor,Monitor Mouth,86.18,9,0.38,94.7,4
+CA-2023-1616,2024-10-03,First Class,Benjamin Knight,Corporate,Central,Office Supplies,Binder,Binder Write,557.94,8,0.46,218.66,10
+CA-2025-1617,2023-10-09,Standard Class,Charles Walker,Home Office,South,Office Supplies,Paper,Paper Resource,393.68,3,0.44,244.56,10
+CA-2025-1618,2023-06-22,Standard Class,Jeffery Martinez,Corporate,West,Technology,Monitor,Monitor Early,122.39,1,0.4,291.36,6
+CA-2025-1619,2024-12-02,Second Class,Kelly Terry,Corporate,West,Office Supplies,Storage,Storage Pressure,805.07,6,0.08,-7.37,12
+CA-2023-1620,2024-05-12,Second Class,Joseph Wood,Corporate,West,Office Supplies,Storage,Storage Discussion,912.81,7,0.3,27.39,5
+CA-2023-1621,2023-11-27,Second Class,Debbie Wiley,Corporate,East,Office Supplies,Paper,Paper Technology,344.47,7,0.15,1.28,11
+CA-2025-1622,2024-02-24,First Class,Melissa Jones,Consumer,Central,Office Supplies,Storage,Storage Arrive,307.22,9,0.06,137.17,2
+CA-2024-1623,2024-08-31,Standard Class,Traci Sanchez,Home Office,East,Office Supplies,Storage,Storage What,970.42,2,0.19,163.98,8
+CA-2023-1624,2024-09-28,Second Class,Benjamin Williams,Consumer,Central,Furniture,Sofa,Sofa Across,165.33,8,0.19,285.58,9
+CA-2024-1625,2024-12-05,First Class,Danielle Hawkins,Corporate,West,Technology,Monitor,Monitor Imagine,415.9,4,0.29,273.84,12
+CA-2023-1626,2024-08-12,First Class,William Cochran,Home Office,West,Furniture,Bookcase,Bookcase Cell,583.71,5,0.11,107.19,8
+CA-2024-1627,2024-12-27,Second Class,Zachary Kemp Jr.,Corporate,West,Furniture,Bookcase,Bookcase Foreign,197.56,9,0.47,15.65,12
+CA-2025-1628,2024-11-06,First Class,Dana Harrison,Home Office,South,Office Supplies,Paper,Paper Computer,821.07,1,0.27,-42.54,11
+CA-2024-1629,2024-08-03,First Class,Megan King,Corporate,South,Technology,Laptop,Laptop City,998.24,5,0.37,256.98,8
+CA-2023-1630,2024-12-13,Standard Class,Christopher Houston,Corporate,East,Furniture,Bookcase,Bookcase Audience,235.59,10,0.27,4.15,12
+CA-2023-1631,2023-08-12,Second Class,Emily Waters,Consumer,West,Technology,Printer,Printer Design,786.56,6,0.15,177.11,8
+CA-2024-1632,2023-05-26,First Class,Lance Lee,Consumer,East,Office Supplies,Paper,Paper Author,418.18,1,0.1,119.08,5
+CA-2024-1633,2024-07-31,Second Class,Mark Irwin,Consumer,Central,Furniture,Sofa,Sofa Player,993.92,3,0.34,168.56,7
+CA-2025-1634,2023-06-10,Second Class,Belinda Calderon,Corporate,West,Furniture,Chair,Chair Special,608.0,4,0.0,19.53,6
+CA-2025-1635,2024-12-03,Standard Class,Richard Reid,Corporate,Central,Office Supplies,Pen,Pen Think,974.52,7,0.11,55.73,12
+CA-2025-1636,2023-10-29,Standard Class,Victoria Lopez,Corporate,Central,Technology,Phone,Phone Challenge,95.0,4,0.04,271.17,10
+CA-2024-1637,2024-03-01,Second Class,Jesse Armstrong,Home Office,East,Technology,Laptop,Laptop Citizen,326.2,5,0.2,113.78,3
+CA-2023-1638,2024-04-01,Standard Class,Jasmine Gaines,Home Office,East,Technology,Laptop,Laptop Sister,429.44,7,0.48,266.3,4
+CA-2023-1639,2023-09-01,Second Class,Glenda Johnson,Corporate,South,Furniture,Bookcase,Bookcase Four,213.31,8,0.14,272.64,9
+CA-2023-1640,2023-03-05,First Class,Kaylee Gould,Home Office,East,Furniture,Sofa,Sofa Summer,77.12,10,0.31,124.84,3
+CA-2023-1641,2023-01-07,First Class,Patty Oconnor,Corporate,Central,Furniture,Chair,Chair How,539.95,10,0.34,95.6,1
+CA-2024-1642,2023-04-02,Second Class,Lisa Li,Consumer,South,Technology,Phone,Phone Deal,162.05,8,0.34,148.66,4
+CA-2023-1643,2024-06-14,First Class,Scott Roberts,Consumer,South,Furniture,Sofa,Sofa Activity,175.29,7,0.25,138.7,6
+CA-2023-1644,2024-01-14,Standard Class,Patrick Diaz,Consumer,Central,Technology,Laptop,Laptop International,603.9,2,0.06,125.62,1
+CA-2025-1645,2024-03-03,Second Class,Sarah Romero,Home Office,West,Furniture,Table,Table Inside,21.24,7,0.06,299.63,3
+CA-2023-1646,2023-09-07,Second Class,Gabriel White,Corporate,East,Furniture,Sofa,Sofa Pass,265.56,7,0.01,103.29,9
+CA-2023-1647,2023-09-01,Standard Class,April Matthews,Consumer,West,Office Supplies,Binder,Binder Soon,753.84,6,0.31,68.32,9
+CA-2025-1648,2024-05-11,Standard Class,Sierra Turner,Home Office,South,Furniture,Sofa,Sofa Control,487.75,3,0.04,72.71,5
+CA-2023-1649,2023-01-16,First Class,Aaron Washington,Home Office,South,Furniture,Chair,Chair Able,894.85,10,0.32,78.56,1
+CA-2025-1650,2024-05-12,First Class,Juan Beard,Home Office,East,Technology,Printer,Printer Opportunity,506.34,3,0.16,-17.27,5
+CA-2025-1651,2023-02-15,First Class,Adam Wells,Home Office,Central,Office Supplies,Binder,Binder Without,144.53,10,0.07,214.76,2
+CA-2024-1652,2024-06-06,Second Class,Patrick Carter,Home Office,West,Technology,Phone,Phone Agency,85.02,10,0.0,213.03,6
+CA-2023-1653,2023-06-15,Standard Class,Antonio Dixon DDS,Consumer,Central,Technology,Monitor,Monitor Above,280.14,5,0.34,71.44,6
+CA-2024-1654,2024-05-16,Second Class,Manuel Allen,Corporate,West,Office Supplies,Binder,Binder Decide,844.1,7,0.02,96.94,5
+CA-2023-1655,2024-11-13,Standard Class,Thomas Edwards,Consumer,Central,Furniture,Chair,Chair Size,420.43,2,0.06,296.77,11
+CA-2024-1656,2024-01-30,Standard Class,James Weber,Home Office,Central,Office Supplies,Storage,Storage Forward,882.56,9,0.23,179.74,1
+CA-2024-1657,2023-11-22,Standard Class,Wendy Simpson,Home Office,East,Technology,Laptop,Laptop Money,187.88,1,0.46,49.97,11
+CA-2024-1658,2023-01-08,First Class,Michael Collins,Consumer,West,Furniture,Sofa,Sofa Simple,515.46,8,0.04,150.84,1
+CA-2023-1659,2023-12-23,Standard Class,Carl Ryan,Corporate,West,Office Supplies,Storage,Storage Well,899.87,2,0.12,190.3,12
+CA-2025-1660,2024-06-16,Standard Class,Ronnie Gonzalez,Home Office,East,Office Supplies,Binder,Binder Rule,783.02,9,0.13,45.49,6
+CA-2024-1661,2024-08-17,Standard Class,Natasha Webb,Consumer,East,Office Supplies,Pen,Pen Treat,878.28,8,0.45,95.65,8
+CA-2024-1662,2024-09-23,Second Class,Michael Daniels,Corporate,Central,Technology,Printer,Printer Our,75.12,4,0.03,221.48,9
+CA-2023-1663,2023-07-19,First Class,Lisa French,Consumer,South,Office Supplies,Storage,Storage Behavior,550.05,1,0.32,276.2,7
+CA-2023-1664,2024-02-14,Standard Class,Tammy Perez,Consumer,South,Furniture,Sofa,Sofa Some,666.84,6,0.12,-25.98,2
+CA-2024-1665,2024-08-21,First Class,Julie Hall,Home Office,East,Furniture,Bookcase,Bookcase Its,213.78,7,0.22,140.5,8
+CA-2023-1666,2023-07-25,Second Class,Sandra Chandler,Corporate,East,Office Supplies,Paper,Paper Allow,83.83,1,0.32,68.66,7
+CA-2025-1667,2023-09-21,Second Class,Melvin Sanchez,Consumer,South,Office Supplies,Paper,Paper City,503.51,4,0.4,243.93,9
+CA-2023-1668,2023-11-02,First Class,Mrs. Mary Lucas,Corporate,West,Technology,Phone,Phone Else,32.48,4,0.26,62.5,11
+CA-2023-1669,2023-07-07,Second Class,Robert Gonzalez,Home Office,South,Furniture,Sofa,Sofa Great,723.88,3,0.23,-11.66,7
+CA-2023-1670,2023-04-12,First Class,Wendy Turner,Corporate,Central,Furniture,Sofa,Sofa Consider,326.23,9,0.3,173.07,4
+CA-2025-1671,2023-12-21,Standard Class,Lisa Bruce,Home Office,Central,Office Supplies,Binder,Binder Most,878.77,6,0.44,68.26,12
+CA-2024-1672,2024-09-04,First Class,Justin Lee,Consumer,South,Technology,Laptop,Laptop Beautiful,113.05,3,0.34,49.39,9
+CA-2025-1673,2023-01-18,Second Class,Sarah Tran,Consumer,Central,Office Supplies,Storage,Storage Every,956.4,9,0.26,251.38,1
+CA-2023-1674,2023-12-11,Standard Class,Julie Mccormick,Home Office,East,Office Supplies,Paper,Paper Tell,376.54,1,0.46,57.14,12
+CA-2024-1675,2023-12-17,Standard Class,Bradley Martinez,Consumer,East,Technology,Monitor,Monitor Behavior,184.07,10,0.46,96.2,12
+CA-2024-1676,2023-08-04,Standard Class,Vanessa Carter,Home Office,Central,Furniture,Table,Table Attention,307.8,2,0.05,142.77,8
+CA-2023-1677,2024-05-14,Standard Class,John Holmes,Corporate,East,Technology,Laptop,Laptop Story,445.34,3,0.2,295.16,5
+CA-2024-1678,2024-09-27,Second Class,Jessica Washington,Corporate,Central,Technology,Monitor,Monitor Meeting,525.65,2,0.25,-43.41,9
+CA-2023-1679,2024-01-27,Standard Class,John Marquez,Home Office,East,Technology,Phone,Phone Politics,213.97,6,0.22,40.69,1
+CA-2025-1680,2023-07-18,First Class,Lisa Brown,Home Office,West,Furniture,Sofa,Sofa Seek,92.95,1,0.31,139.68,7
+CA-2023-1681,2023-12-02,First Class,Brittney Mccall,Consumer,Central,Office Supplies,Paper,Paper Interest,607.09,3,0.25,106.63,12
+CA-2025-1682,2023-06-18,Second Class,Stephanie Torres,Corporate,Central,Furniture,Bookcase,Bookcase Only,720.52,5,0.32,253.6,6
+CA-2025-1683,2023-02-23,First Class,Mark French,Consumer,West,Office Supplies,Paper,Paper Reveal,499.81,6,0.15,34.17,2
+CA-2025-1684,2024-09-16,Standard Class,Dawn James,Corporate,West,Furniture,Table,Table Wait,316.6,5,0.17,275.52,9
+CA-2023-1685,2023-06-11,First Class,Shawn Edwards,Home Office,Central,Technology,Printer,Printer Your,617.91,4,0.19,-26.51,6
+CA-2025-1686,2024-05-24,Second Class,Katherine Solomon,Home Office,East,Furniture,Chair,Chair Pull,41.76,1,0.2,115.64,5
+CA-2025-1687,2023-09-25,Standard Class,Terry King,Consumer,West,Technology,Printer,Printer Manage,526.78,1,0.36,90.43,9
+CA-2023-1688,2024-07-28,Second Class,Samantha Hodges,Corporate,East,Technology,Printer,Printer Understand,193.1,7,0.06,175.53,7
+CA-2024-1689,2023-01-15,Second Class,Richard Gamble,Home Office,South,Furniture,Bookcase,Bookcase Believe,487.69,9,0.24,72.7,1
+CA-2024-1690,2024-11-26,First Class,Wendy Martin,Corporate,South,Furniture,Table,Table Nor,381.04,6,0.1,36.05,11
+CA-2023-1691,2024-09-10,Second Class,Gilbert Martinez,Home Office,West,Office Supplies,Paper,Paper Available,325.1,4,0.21,-25.41,9
+CA-2025-1692,2024-05-12,Second Class,Carrie White,Corporate,Central,Technology,Laptop,Laptop Analysis,783.58,8,0.1,241.97,5
+CA-2024-1693,2023-07-31,Second Class,Theodore Bradley,Corporate,South,Office Supplies,Storage,Storage Tell,274.66,5,0.34,275.25,7
+CA-2025-1694,2023-06-30,Second Class,Joshua Juarez,Consumer,South,Office Supplies,Storage,Storage Kind,93.92,1,0.31,32.97,6
+CA-2023-1695,2023-09-27,Standard Class,Kenneth Burns,Consumer,South,Technology,Printer,Printer Marriage,307.71,9,0.45,200.85,9
+CA-2023-1696,2023-06-25,Standard Class,Zachary Adams,Corporate,Central,Furniture,Table,Table Heart,579.71,9,0.04,65.94,6
+CA-2024-1697,2023-01-14,Second Class,Cynthia Parker,Corporate,East,Furniture,Bookcase,Bookcase Position,423.98,2,0.2,200.68,1
+CA-2024-1698,2023-03-12,First Class,Kimberly Berry,Corporate,East,Technology,Monitor,Monitor On,281.67,3,0.28,156.55,3
+CA-2025-1699,2024-11-20,Second Class,Gabrielle Anderson,Consumer,South,Technology,Printer,Printer Research,290.29,9,0.3,62.67,11
+CA-2025-1700,2023-05-06,Second Class,Cassandra Ford,Corporate,East,Furniture,Bookcase,Bookcase Crime,956.87,3,0.47,118.23,5
+CA-2023-1701,2023-07-28,Standard Class,Caitlin Underwood,Consumer,East,Technology,Monitor,Monitor Success,171.05,6,0.0,294.2,7
+CA-2025-1702,2024-11-11,First Class,Logan Perez,Corporate,South,Office Supplies,Binder,Binder Few,163.53,8,0.5,279.58,11
+CA-2024-1703,2024-12-07,Second Class,Victoria Romero,Home Office,Central,Furniture,Table,Table Decide,75.12,2,0.12,88.09,12
+CA-2023-1704,2024-07-10,First Class,Sandy Burnett,Consumer,West,Office Supplies,Pen,Pen Focus,956.0,3,0.01,-48.73,7
+CA-2025-1705,2024-09-01,First Class,Ashley Wallace,Corporate,Central,Technology,Phone,Phone Evening,518.64,2,0.2,159.07,9
+CA-2023-1706,2023-11-24,Standard Class,Darren Walker,Corporate,Central,Technology,Printer,Printer Improve,167.87,2,0.39,88.8,11
+CA-2023-1707,2024-07-05,Standard Class,Kelly Lowery,Consumer,Central,Technology,Printer,Printer Notice,727.95,10,0.48,53.57,7
+CA-2024-1708,2023-12-14,First Class,Philip Ramirez,Consumer,South,Office Supplies,Pen,Pen Street,824.78,6,0.47,-36.41,12
+CA-2024-1709,2023-03-02,Standard Class,Colton Hernandez,Home Office,East,Office Supplies,Storage,Storage Ten,438.31,6,0.48,101.48,3
+CA-2025-1710,2024-11-21,First Class,Adam Casey,Consumer,East,Office Supplies,Pen,Pen Key,833.78,3,0.31,97.68,11
+CA-2024-1711,2024-09-01,First Class,Amber Meyer,Consumer,West,Office Supplies,Storage,Storage Remember,22.39,3,0.05,173.5,9
+CA-2023-1712,2023-06-07,Second Class,Jamie Carlson,Consumer,East,Office Supplies,Pen,Pen Speak,614.93,3,0.25,145.95,6
+CA-2025-1713,2023-09-29,Second Class,Kathryn Strickland,Corporate,East,Office Supplies,Paper,Paper Nation,825.96,6,0.06,228.09,9
+CA-2024-1714,2024-04-29,Standard Class,Darren Green,Consumer,West,Technology,Monitor,Monitor Free,437.67,8,0.34,273.02,4
+CA-2023-1715,2023-08-01,Second Class,Carrie Franklin,Corporate,Central,Furniture,Bookcase,Bookcase Example,217.87,3,0.24,-22.01,8
+CA-2025-1716,2023-08-20,Second Class,Matthew Ibarra,Consumer,East,Technology,Printer,Printer Four,687.34,3,0.07,277.54,8
+CA-2025-1717,2024-12-07,Second Class,Gary Johnson,Corporate,East,Office Supplies,Storage,Storage Color,387.4,8,0.19,29.49,12
+CA-2023-1718,2024-03-29,Second Class,Joanna Black,Corporate,Central,Furniture,Sofa,Sofa Economy,133.96,3,0.26,89.25,3
+CA-2025-1719,2024-03-04,Second Class,Gabriel Norris,Consumer,South,Furniture,Chair,Chair Beautiful,529.42,10,0.19,12.84,3
+CA-2025-1720,2024-02-07,Standard Class,Danny Juarez,Corporate,South,Office Supplies,Binder,Binder Billion,853.18,6,0.13,45.99,2
+CA-2025-1721,2023-02-22,Standard Class,Veronica Perkins,Consumer,East,Furniture,Chair,Chair Near,765.72,6,0.38,298.23,2
+CA-2024-1722,2023-05-24,First Class,Jorge Sloan,Home Office,Central,Technology,Phone,Phone Reduce,312.05,5,0.21,87.9,5
+CA-2023-1723,2023-04-10,Standard Class,Jamie Michael,Home Office,West,Technology,Phone,Phone Film,424.72,4,0.04,264.07,4
+CA-2025-1724,2023-06-15,Second Class,Lori Day,Home Office,West,Office Supplies,Storage,Storage Attorney,859.45,9,0.46,5.2,6
+CA-2024-1725,2024-10-31,First Class,Linda Gillespie,Consumer,Central,Furniture,Table,Table Official,325.65,8,0.28,22.02,10
+CA-2024-1726,2023-02-20,Standard Class,Jessica Chambers,Consumer,South,Technology,Phone,Phone Require,871.21,8,0.21,201.82,2
+CA-2024-1727,2024-12-24,Standard Class,Eric Whitney,Corporate,Central,Technology,Printer,Printer Nor,503.44,8,0.15,64.35,12
+CA-2023-1728,2024-05-18,Second Class,Michael Palmer,Home Office,West,Furniture,Bookcase,Bookcase Program,316.26,10,0.46,73.15,5
+CA-2023-1729,2023-12-10,Standard Class,Jessica Whitney,Home Office,West,Technology,Laptop,Laptop Cup,41.55,2,0.4,125.88,12
+CA-2024-1730,2024-06-17,Standard Class,Ronald Brewer,Corporate,West,Office Supplies,Binder,Binder Within,854.94,8,0.35,136.51,6
+CA-2023-1731,2024-04-14,First Class,Nicole Woods,Consumer,South,Technology,Printer,Printer Body,462.2,1,0.42,119.24,4
+CA-2023-1732,2024-11-05,Second Class,Barbara Rivera,Corporate,South,Furniture,Table,Table Back,572.33,5,0.1,-25.21,11
+CA-2025-1733,2024-06-14,Second Class,Kimberly Pope,Consumer,Central,Technology,Phone,Phone Once,955.41,4,0.01,116.05,6
+CA-2024-1734,2023-11-27,First Class,Laura Carter,Consumer,East,Technology,Laptop,Laptop Always,898.48,7,0.34,232.49,11
+CA-2025-1735,2023-03-17,First Class,Patrick King,Corporate,West,Office Supplies,Paper,Paper Guy,587.45,6,0.23,195.66,3
+CA-2024-1736,2023-02-08,First Class,Emily Vaughn,Consumer,Central,Technology,Laptop,Laptop Blue,794.0,1,0.27,248.56,2
+CA-2025-1737,2023-12-26,Standard Class,Samuel Esparza,Corporate,East,Furniture,Bookcase,Bookcase Institution,940.15,9,0.39,207.01,12
+CA-2025-1738,2023-03-11,Second Class,Mark Buchanan,Consumer,South,Furniture,Chair,Chair Suddenly,877.5,1,0.16,117.7,3
+CA-2024-1739,2023-02-02,Standard Class,Todd Carter,Corporate,West,Office Supplies,Paper,Paper Dream,172.39,3,0.04,134.83,2
+CA-2024-1740,2024-02-09,Second Class,Kenneth Harrison,Corporate,South,Technology,Laptop,Laptop Man,208.15,4,0.16,27.01,2
+CA-2025-1741,2024-01-13,Second Class,Teresa Miller,Corporate,West,Technology,Monitor,Monitor Plant,286.46,7,0.01,207.86,1
+CA-2024-1742,2023-03-04,Standard Class,David Bailey,Consumer,West,Technology,Printer,Printer Staff,780.72,4,0.24,-32.05,3
+CA-2024-1743,2024-01-21,First Class,Monica Allison,Home Office,East,Technology,Laptop,Laptop Serious,634.16,6,0.13,121.15,1
+CA-2023-1744,2024-11-12,First Class,Anthony Patterson,Corporate,South,Office Supplies,Paper,Paper Option,371.73,1,0.42,270.08,11
+CA-2023-1745,2024-07-17,Standard Class,Megan Williams,Corporate,South,Office Supplies,Storage,Storage Thus,185.45,5,0.34,238.86,7
+CA-2023-1746,2023-11-18,First Class,Robert Hall,Corporate,East,Technology,Laptop,Laptop Tv,175.26,7,0.4,3.3,11
+CA-2024-1747,2023-01-11,Second Class,Jose Thornton,Corporate,South,Furniture,Sofa,Sofa Able,350.53,8,0.09,-29.94,1
+CA-2025-1748,2024-05-29,First Class,Luis Hall,Corporate,South,Technology,Phone,Phone About,518.11,5,0.06,70.66,5
+CA-2025-1749,2023-06-16,Second Class,David Hill,Home Office,Central,Technology,Laptop,Laptop Open,531.76,4,0.32,135.3,6
+CA-2023-1750,2023-02-01,Standard Class,Nicholas Pope,Corporate,South,Technology,Phone,Phone Behind,579.29,6,0.48,90.57,2
+CA-2023-1751,2024-11-30,Second Class,Vincent Warren,Corporate,Central,Office Supplies,Paper,Paper Clear,448.93,2,0.06,127.39,11
+CA-2023-1752,2024-10-22,First Class,Zachary Reid,Home Office,Central,Furniture,Table,Table Build,731.93,3,0.0,224.69,10
+CA-2024-1753,2024-11-15,First Class,Joseph Campbell,Consumer,West,Office Supplies,Storage,Storage Gun,44.81,10,0.33,186.69,11
+CA-2023-1754,2023-05-11,Standard Class,Kristi Prince,Home Office,Central,Furniture,Sofa,Sofa Another,629.82,6,0.11,81.74,5
+CA-2024-1755,2024-06-05,First Class,Keith Wiley,Consumer,East,Office Supplies,Storage,Storage Development,718.96,10,0.1,177.45,6
+CA-2024-1756,2023-03-02,Standard Class,David Alvarado,Consumer,South,Furniture,Chair,Chair Much,456.66,10,0.19,113.01,3
+CA-2024-1757,2024-06-24,Standard Class,Peter James,Home Office,South,Furniture,Chair,Chair Few,306.04,7,0.02,6.33,6
+CA-2024-1758,2024-07-13,First Class,Angela Juarez,Corporate,West,Furniture,Bookcase,Bookcase Also,352.7,7,0.31,272.39,7
+CA-2023-1759,2023-01-19,First Class,Jennifer Rangel,Consumer,Central,Technology,Laptop,Laptop Bag,584.44,7,0.42,229.87,1
+CA-2023-1760,2024-10-29,First Class,Lisa Williams,Home Office,West,Furniture,Chair,Chair Much,986.84,2,0.11,129.75,10
+CA-2024-1761,2024-06-27,Standard Class,Michelle Henry,Home Office,West,Furniture,Sofa,Sofa Send,727.32,6,0.29,225.19,6
+CA-2024-1762,2024-06-13,First Class,Sherry Davies,Consumer,South,Furniture,Bookcase,Bookcase Smile,329.56,4,0.34,183.02,6
+CA-2023-1763,2023-10-31,Second Class,Adam Phillips,Consumer,East,Office Supplies,Pen,Pen Deal,974.54,5,0.42,231.31,10
+CA-2025-1764,2023-10-13,Second Class,Brent Neal,Consumer,West,Furniture,Chair,Chair Community,115.4,2,0.21,-38.58,10
+CA-2024-1765,2024-07-23,Second Class,Sean Moore,Corporate,Central,Furniture,Chair,Chair Ten,289.0,2,0.27,97.87,7
+CA-2025-1766,2024-05-23,First Class,Mark Johnson,Corporate,West,Technology,Laptop,Laptop Property,751.7,7,0.08,275.25,5
+CA-2024-1767,2023-08-19,First Class,Brooke Lamb,Consumer,Central,Office Supplies,Binder,Binder Inside,355.38,7,0.25,-8.47,8
+CA-2024-1768,2023-09-21,Second Class,Kathy Knight,Corporate,Central,Office Supplies,Paper,Paper Water,234.39,5,0.21,144.7,9
+CA-2024-1769,2024-06-20,First Class,Patricia Cabrera,Consumer,South,Office Supplies,Storage,Storage Movie,811.6,4,0.39,62.94,6
+CA-2024-1770,2023-08-01,First Class,Ronald Stark,Corporate,South,Office Supplies,Pen,Pen Heavy,156.3,3,0.39,203.33,8
+CA-2025-1771,2024-02-19,First Class,Ryan Dorsey,Corporate,South,Technology,Printer,Printer Mission,571.21,5,0.31,3.36,2
+CA-2024-1772,2023-04-14,Second Class,Ariana Johnson,Home Office,South,Office Supplies,Storage,Storage Item,229.74,8,0.21,82.79,4
+CA-2023-1773,2023-07-19,First Class,Jacqueline Phillips,Consumer,East,Office Supplies,Binder,Binder Local,785.78,7,0.09,152.25,7
+CA-2025-1774,2023-05-05,Standard Class,Brittany Reeves,Home Office,Central,Furniture,Chair,Chair Life,631.35,10,0.19,102.8,5
+CA-2024-1775,2024-03-07,Standard Class,Margaret Weber,Corporate,South,Furniture,Table,Table Management,928.7,9,0.06,254.27,3
+CA-2024-1776,2024-09-21,Second Class,Justin Reeves,Corporate,South,Office Supplies,Binder,Binder Choice,360.02,10,0.08,-19.55,9
+CA-2024-1777,2024-07-05,Second Class,Sean Alvarez,Home Office,South,Technology,Laptop,Laptop East,57.94,5,0.11,183.94,7
+CA-2024-1778,2024-02-03,Standard Class,Jason Hubbard,Consumer,Central,Office Supplies,Pen,Pen Recent,583.02,5,0.33,48.31,2
+CA-2025-1779,2024-05-21,Standard Class,Cristian Bell,Consumer,West,Furniture,Bookcase,Bookcase Language,28.83,1,0.27,163.41,5
+CA-2024-1780,2024-01-28,Second Class,Christina Swanson,Consumer,Central,Technology,Phone,Phone Hospital,765.54,1,0.41,235.99,1
+CA-2023-1781,2024-12-14,Standard Class,Brianna White,Consumer,Central,Furniture,Chair,Chair Various,516.12,2,0.01,125.62,12
+CA-2025-1782,2023-09-03,Standard Class,Patricia Soto,Home Office,Central,Technology,Monitor,Monitor Research,89.94,7,0.19,135.43,9
+CA-2023-1783,2023-01-16,Standard Class,Dawn Harris,Consumer,East,Technology,Monitor,Monitor Picture,990.03,8,0.11,256.25,1
+CA-2025-1784,2024-06-04,Standard Class,Angela Nguyen DDS,Consumer,West,Technology,Phone,Phone Expect,561.76,9,0.21,-27.92,6
+CA-2025-1785,2024-12-21,Standard Class,Donna Love,Corporate,South,Office Supplies,Storage,Storage Enjoy,593.61,7,0.32,-11.31,12
+CA-2024-1786,2024-09-18,Second Class,Tina Shah,Corporate,South,Furniture,Sofa,Sofa Make,315.0,2,0.24,283.36,9
+CA-2024-1787,2024-08-20,Standard Class,April Brooks,Consumer,West,Furniture,Chair,Chair Attorney,417.47,1,0.42,158.7,8
+CA-2024-1788,2023-03-21,Second Class,Andrew Snyder,Consumer,West,Technology,Phone,Phone Officer,520.34,9,0.04,280.73,3
+CA-2025-1789,2024-01-09,Second Class,Brenda Robertson,Corporate,West,Office Supplies,Paper,Paper Eat,240.22,2,0.39,-17.62,1
+CA-2025-1790,2023-04-27,Standard Class,Mark Howard,Home Office,East,Office Supplies,Pen,Pen Individual,313.23,9,0.31,224.91,4
+CA-2023-1791,2024-10-17,First Class,Dr. Vanessa Quinn MD,Corporate,West,Technology,Monitor,Monitor Again,372.63,2,0.26,-21.46,10
+CA-2025-1792,2023-07-18,Second Class,Zachary Morris,Consumer,Central,Furniture,Table,Table Marriage,641.21,1,0.21,213.34,7
+CA-2024-1793,2024-09-04,Second Class,Mark Murray,Corporate,East,Furniture,Chair,Chair Impact,968.07,8,0.42,-42.34,9
+CA-2023-1794,2024-04-12,First Class,Mark Estes,Corporate,West,Technology,Monitor,Monitor End,287.55,4,0.32,191.21,4
+CA-2024-1795,2024-05-07,First Class,Matthew Tanner,Consumer,West,Office Supplies,Storage,Storage Her,745.37,2,0.35,259.42,5
+CA-2024-1796,2023-04-25,Second Class,Veronica Parker,Corporate,Central,Furniture,Sofa,Sofa Material,826.25,1,0.08,102.77,4
+CA-2024-1797,2024-07-27,Second Class,William Brown,Corporate,West,Furniture,Sofa,Sofa Name,936.89,5,0.27,92.07,7
+CA-2023-1798,2023-09-01,Standard Class,Zachary Ryan,Home Office,East,Furniture,Bookcase,Bookcase Skill,288.4,3,0.47,130.54,9
+CA-2023-1799,2023-06-15,First Class,Jermaine Murphy,Consumer,Central,Technology,Laptop,Laptop Whole,659.05,7,0.25,73.39,6
+CA-2023-1800,2023-04-29,First Class,Jean Gordon,Consumer,East,Furniture,Table,Table Talk,207.05,9,0.24,195.54,4
+CA-2023-1801,2024-01-13,Standard Class,Mason Gomez,Corporate,East,Technology,Laptop,Laptop Of,217.69,1,0.48,194.94,1
+CA-2024-1802,2023-11-01,Second Class,Jonathan Gibson,Corporate,South,Furniture,Table,Table These,866.49,6,0.12,81.37,11
+CA-2024-1803,2024-03-01,Second Class,Stephanie Drake,Corporate,South,Office Supplies,Pen,Pen Such,849.39,6,0.28,125.33,3
+CA-2023-1804,2024-05-30,Standard Class,John Callahan,Home Office,Central,Technology,Laptop,Laptop Pretty,243.13,8,0.01,98.92,5
+CA-2024-1805,2023-11-26,First Class,Tony Hancock,Consumer,Central,Furniture,Sofa,Sofa Could,820.23,2,0.38,278.5,11
+CA-2024-1806,2024-12-12,Second Class,Tina Smith,Home Office,Central,Office Supplies,Paper,Paper Theory,722.28,9,0.24,100.6,12
+CA-2024-1807,2023-04-06,Standard Class,Debra Archer,Corporate,West,Technology,Laptop,Laptop Project,645.85,10,0.14,282.63,4
+CA-2023-1808,2023-01-29,Second Class,Mark Cabrera,Corporate,South,Office Supplies,Pen,Pen Put,966.87,8,0.35,163.53,1
+CA-2023-1809,2023-05-13,First Class,William Rasmussen,Home Office,Central,Technology,Laptop,Laptop Chance,717.87,5,0.16,290.79,5
+CA-2025-1810,2024-02-06,Second Class,Dawn Wilson,Home Office,East,Office Supplies,Pen,Pen Well,168.17,9,0.06,-48.82,2
+CA-2025-1811,2023-10-25,Second Class,Katelyn Williams,Home Office,West,Technology,Phone,Phone Artist,757.05,4,0.05,179.2,10
+CA-2025-1812,2024-11-02,Standard Class,Scott Wilson,Home Office,East,Office Supplies,Binder,Binder Month,98.45,2,0.32,-37.81,11
+CA-2024-1813,2023-12-16,Second Class,Mike Mann,Consumer,West,Office Supplies,Storage,Storage Deep,447.1,8,0.19,131.02,12
+CA-2024-1814,2023-05-21,First Class,Rachel Tucker,Home Office,East,Furniture,Bookcase,Bookcase North,153.51,5,0.09,71.94,5
+CA-2023-1815,2023-12-13,Second Class,Jennifer Rasmussen,Consumer,Central,Furniture,Bookcase,Bookcase Within,532.32,2,0.49,297.53,12
+CA-2024-1816,2024-08-01,Standard Class,Jay Perez,Corporate,South,Office Supplies,Binder,Binder Join,989.87,9,0.13,125.74,8
+CA-2023-1817,2024-04-19,Second Class,Ashley Johnson,Corporate,East,Furniture,Table,Table Get,206.53,7,0.26,240.35,4
+CA-2024-1818,2023-12-24,First Class,Bethany Herrera,Consumer,Central,Furniture,Bookcase,Bookcase Girl,519.45,9,0.28,220.25,12
+CA-2025-1819,2024-10-11,Second Class,David Moore,Corporate,South,Technology,Laptop,Laptop Responsibility,787.38,5,0.29,-19.89,10
+CA-2025-1820,2023-02-20,Second Class,Jason Bradley,Consumer,East,Furniture,Bookcase,Bookcase Note,264.93,8,0.03,-34.58,2
+CA-2024-1821,2024-10-16,Second Class,Eric Walker,Consumer,East,Furniture,Chair,Chair Team,730.47,1,0.17,282.79,10
+CA-2024-1822,2024-02-07,First Class,Christopher Lara,Corporate,Central,Office Supplies,Paper,Paper Many,208.57,2,0.49,103.83,2
+CA-2023-1823,2024-03-08,First Class,Bruce Kemp,Home Office,Central,Furniture,Table,Table Animal,666.75,3,0.34,18.19,3
+CA-2024-1824,2024-11-24,First Class,Virginia Underwood,Consumer,East,Technology,Printer,Printer College,508.8,1,0.46,57.73,11
+CA-2023-1825,2023-11-19,Second Class,Rodney Guzman,Home Office,West,Furniture,Table,Table Road,600.33,4,0.45,92.24,11
+CA-2025-1826,2024-04-30,First Class,Raven Lambert,Corporate,East,Office Supplies,Binder,Binder Law,807.98,3,0.33,1.33,4
+CA-2023-1827,2024-09-23,Second Class,Richard Griffin,Consumer,East,Technology,Laptop,Laptop Important,681.49,10,0.12,91.76,9
+CA-2025-1828,2023-02-19,First Class,Elizabeth Harrell,Home Office,East,Office Supplies,Binder,Binder Husband,889.08,5,0.34,289.6,2
+CA-2023-1829,2023-12-24,Standard Class,Deborah Curtis,Corporate,South,Furniture,Bookcase,Bookcase Have,848.09,7,0.15,298.41,12
+CA-2025-1830,2024-11-17,Standard Class,Gina Taylor,Consumer,East,Technology,Monitor,Monitor Nor,85.66,5,0.07,29.22,11
+CA-2023-1831,2024-07-31,First Class,Nicholas Allen,Corporate,East,Office Supplies,Storage,Storage Democratic,643.46,6,0.49,-38.5,7
+CA-2024-1832,2024-01-11,Second Class,Marcus Smith,Corporate,Central,Furniture,Table,Table Compare,785.05,7,0.39,148.93,1
+CA-2024-1833,2024-08-14,Standard Class,Dana Schmidt,Corporate,Central,Furniture,Sofa,Sofa Leg,705.81,10,0.36,-34.29,8
+CA-2023-1834,2023-01-30,Standard Class,Derrick Clayton,Corporate,South,Technology,Laptop,Laptop Country,743.48,9,0.43,203.53,1
+CA-2024-1835,2023-12-15,First Class,Antonio Smith,Home Office,South,Technology,Printer,Printer Practice,821.37,10,0.24,197.46,12
+CA-2025-1836,2023-06-01,Standard Class,Jose King,Consumer,West,Office Supplies,Pen,Pen Front,726.24,8,0.3,21.66,6
+CA-2024-1837,2024-09-22,Second Class,Jenna Lewis,Home Office,West,Furniture,Table,Table Hotel,198.68,10,0.41,284.03,9
+CA-2025-1838,2024-11-17,Standard Class,Andrea Hahn,Home Office,West,Furniture,Chair,Chair Industry,645.01,6,0.39,216.53,11
+CA-2024-1839,2024-09-19,Second Class,Brett Chase,Home Office,South,Technology,Phone,Phone Newspaper,928.34,7,0.2,3.09,9
+CA-2024-1840,2024-10-19,Standard Class,William Ruiz,Home Office,Central,Technology,Phone,Phone Boy,300.23,7,0.01,68.21,10
+CA-2024-1841,2023-09-13,Second Class,Jeffrey Ward,Consumer,South,Technology,Phone,Phone Record,474.22,4,0.41,-17.55,9
+CA-2025-1842,2024-06-04,Standard Class,Matthew Sanders,Consumer,South,Office Supplies,Paper,Paper Result,496.55,5,0.37,290.23,6
+CA-2023-1843,2024-04-12,Second Class,Jennifer Taylor,Consumer,Central,Technology,Monitor,Monitor Their,108.39,1,0.45,203.87,4
+CA-2025-1844,2023-04-08,Standard Class,Adam Griffith,Home Office,South,Office Supplies,Paper,Paper Region,180.35,7,0.27,-49.55,4
+CA-2025-1845,2023-10-21,First Class,Hannah Santos,Home Office,Central,Technology,Laptop,Laptop Son,448.74,6,0.15,104.26,10
+CA-2025-1846,2024-07-24,Second Class,Ian Parker,Consumer,West,Office Supplies,Pen,Pen She,483.32,9,0.1,67.23,7
+CA-2025-1847,2024-02-11,Standard Class,Stephanie Howard PhD,Home Office,West,Furniture,Chair,Chair Course,447.47,6,0.29,39.34,2
+CA-2023-1848,2023-02-17,Standard Class,John Smith,Consumer,South,Office Supplies,Pen,Pen Clear,418.49,6,0.45,255.31,2
+CA-2024-1849,2023-09-30,Second Class,Jackie Garza,Home Office,East,Office Supplies,Storage,Storage Notice,815.11,6,0.39,200.75,9
+CA-2024-1850,2023-04-25,Standard Class,Victor Houston,Consumer,West,Office Supplies,Binder,Binder Almost,136.43,4,0.29,61.24,4
+CA-2023-1851,2023-03-10,Standard Class,Chase Chapman,Corporate,South,Office Supplies,Paper,Paper Marriage,933.03,8,0.12,167.96,3
+CA-2024-1852,2023-02-24,Second Class,Jonathan Thomas,Consumer,West,Furniture,Bookcase,Bookcase Mr,584.45,9,0.26,260.64,2
+CA-2023-1853,2024-11-02,First Class,Cody Quinn,Consumer,Central,Furniture,Table,Table Baby,791.48,1,0.29,13.87,11
+CA-2025-1854,2024-07-07,Second Class,Brian Wagner,Corporate,Central,Furniture,Sofa,Sofa Us,854.66,3,0.17,160.7,7
+CA-2025-1855,2023-10-20,First Class,Jason Pennington,Consumer,South,Furniture,Sofa,Sofa Power,486.64,8,0.16,158.49,10
+CA-2023-1856,2024-08-25,Standard Class,Scott Lee,Corporate,West,Office Supplies,Binder,Binder Base,670.39,6,0.13,132.77,8
+CA-2023-1857,2023-08-04,First Class,Laurie Jones,Corporate,South,Office Supplies,Storage,Storage The,724.79,9,0.4,234.49,8
+CA-2025-1858,2023-01-06,Standard Class,Cynthia Frey,Home Office,West,Office Supplies,Pen,Pen Both,434.53,2,0.08,54.35,1
+CA-2023-1859,2023-02-25,Second Class,Megan Bennett,Corporate,Central,Technology,Phone,Phone Give,947.7,8,0.19,117.97,2
+CA-2024-1860,2024-12-07,First Class,Michelle Sutton,Consumer,West,Technology,Monitor,Monitor Area,384.65,5,0.01,1.77,12
+CA-2023-1861,2024-08-16,Standard Class,Robin Clay,Consumer,East,Office Supplies,Storage,Storage Air,316.89,4,0.47,150.1,8
+CA-2024-1862,2023-11-24,First Class,Michael Bailey,Corporate,East,Furniture,Bookcase,Bookcase Ready,951.78,4,0.24,119.42,11
+CA-2023-1863,2024-10-01,Standard Class,John Lee,Home Office,West,Office Supplies,Binder,Binder Event,28.08,9,0.1,221.12,10
+CA-2025-1864,2024-06-15,Second Class,Steve Terry,Home Office,Central,Technology,Monitor,Monitor Deal,176.19,1,0.02,226.01,6
+CA-2025-1865,2023-09-04,Standard Class,Michelle Graham,Consumer,West,Furniture,Table,Table Win,830.39,7,0.3,103.39,9
+CA-2023-1866,2023-03-07,Second Class,Jasmine Garrett,Home Office,South,Technology,Laptop,Laptop Majority,104.91,6,0.19,108.54,3
+CA-2023-1867,2024-08-01,First Class,Shannon Thompson,Consumer,South,Furniture,Sofa,Sofa Magazine,252.67,9,0.2,292.93,8
+CA-2023-1868,2023-03-29,Standard Class,Dr. William Larson,Home Office,West,Furniture,Table,Table Everything,105.7,3,0.22,47.62,3
+CA-2023-1869,2024-03-20,Standard Class,Gregory Jennings,Corporate,East,Office Supplies,Storage,Storage Of,449.47,7,0.17,74.61,3
+CA-2023-1870,2024-08-24,Standard Class,Julie Larson MD,Corporate,South,Technology,Phone,Phone Middle,761.85,7,0.43,98.17,8
+CA-2025-1871,2023-04-12,Second Class,Zachary Thompson,Consumer,East,Technology,Monitor,Monitor Energy,357.67,7,0.45,111.78,4
+CA-2025-1872,2023-10-31,Standard Class,Victoria Miller,Home Office,South,Office Supplies,Pen,Pen Class,624.44,9,0.14,179.3,10
+CA-2023-1873,2023-09-04,First Class,Michael Graham,Corporate,East,Furniture,Sofa,Sofa Little,829.8,4,0.44,48.1,9
+CA-2023-1874,2024-08-04,First Class,Jason Lee,Consumer,West,Technology,Monitor,Monitor Together,332.61,7,0.01,241.06,8
+CA-2023-1875,2024-02-11,First Class,Derrick Griffin,Corporate,East,Furniture,Chair,Chair Should,215.75,5,0.38,45.24,2
+CA-2023-1876,2023-01-16,First Class,Gabrielle Moran,Home Office,East,Furniture,Table,Table With,279.9,9,0.35,249.83,1
+CA-2023-1877,2024-06-25,Standard Class,Stacy Moran,Home Office,South,Office Supplies,Pen,Pen Role,42.16,3,0.08,163.67,6
+CA-2025-1878,2023-10-03,Second Class,Gina Davis,Corporate,East,Furniture,Bookcase,Bookcase Four,84.39,10,0.38,167.72,10
+CA-2025-1879,2024-12-29,First Class,Stephanie Hale,Consumer,East,Office Supplies,Paper,Paper Himself,313.58,3,0.13,244.43,12
+CA-2023-1880,2023-12-28,Second Class,Karen Jackson,Consumer,South,Office Supplies,Binder,Binder None,115.35,1,0.11,94.47,12
+CA-2024-1881,2023-09-26,Second Class,Kathleen Reynolds,Home Office,Central,Office Supplies,Binder,Binder Recently,317.56,8,0.39,44.8,9
+CA-2023-1882,2023-02-14,First Class,Mrs. Shelley Cooper,Corporate,South,Technology,Printer,Printer Example,937.3,1,0.44,271.9,2
+CA-2024-1883,2024-04-08,Standard Class,Peter Carter,Consumer,West,Office Supplies,Pen,Pen East,148.78,1,0.5,73.06,4
+CA-2024-1884,2024-12-08,Standard Class,Katie Cook,Home Office,Central,Office Supplies,Pen,Pen Matter,991.71,10,0.04,56.97,12
+CA-2023-1885,2024-10-08,Standard Class,Charlene Cooper,Consumer,Central,Technology,Monitor,Monitor Mrs,332.52,5,0.15,-38.28,10
+CA-2024-1886,2024-09-11,Standard Class,Jose James,Home Office,South,Technology,Monitor,Monitor Value,147.06,10,0.12,69.38,9
+CA-2023-1887,2024-06-30,Standard Class,Corey Harvey,Home Office,Central,Office Supplies,Storage,Storage Along,299.69,3,0.02,189.45,6
+CA-2024-1888,2024-10-09,First Class,Darryl Roberts,Consumer,East,Furniture,Chair,Chair Quickly,79.58,7,0.22,-45.99,10
+CA-2023-1889,2023-06-24,First Class,Robert Gray,Corporate,East,Technology,Printer,Printer To,803.14,2,0.35,173.41,6
+CA-2025-1890,2023-03-31,Second Class,Isaac Gardner,Home Office,West,Furniture,Table,Table Four,303.17,8,0.2,118.1,3
+CA-2024-1891,2024-11-02,Second Class,Kristin Peters,Home Office,West,Office Supplies,Binder,Binder Stand,310.23,3,0.48,251.52,11
+CA-2025-1892,2023-11-20,Second Class,Danielle Brown,Corporate,East,Technology,Laptop,Laptop Risk,732.53,4,0.23,217.26,11
+CA-2023-1893,2023-12-27,Second Class,Andrew Montes,Consumer,South,Technology,Printer,Printer Effect,142.93,5,0.41,160.5,12
+CA-2024-1894,2024-08-01,Standard Class,Brittany Adams,Home Office,West,Office Supplies,Paper,Paper Fire,735.0,1,0.39,286.07,8
+CA-2025-1895,2023-04-29,First Class,Christine Hughes,Consumer,Central,Office Supplies,Binder,Binder Exactly,751.75,10,0.3,58.97,4
+CA-2025-1896,2024-02-21,First Class,Michelle Roberts,Consumer,Central,Office Supplies,Paper,Paper Past,519.32,10,0.41,-47.42,2
+CA-2024-1897,2024-05-09,Standard Class,Jamie Torres,Corporate,Central,Technology,Printer,Printer Road,537.53,3,0.43,114.87,5
+CA-2023-1898,2023-11-06,Standard Class,Emma Gordon,Home Office,Central,Technology,Phone,Phone Movie,702.86,3,0.18,167.22,11
+CA-2023-1899,2023-02-23,Standard Class,Richard Holland,Home Office,East,Furniture,Sofa,Sofa Rock,531.56,5,0.17,279.11,2
+CA-2023-1900,2024-06-18,First Class,Robert Hart,Home Office,South,Furniture,Table,Table Increase,797.02,10,0.17,-25.24,6
+CA-2025-1901,2023-08-09,Standard Class,Kimberly Finley,Corporate,Central,Technology,Printer,Printer Force,62.06,3,0.03,-13.22,8
+CA-2025-1902,2024-09-25,Standard Class,Alexandra Taylor,Home Office,West,Office Supplies,Storage,Storage Trial,360.05,4,0.48,-3.73,9
+CA-2025-1903,2023-06-30,First Class,Ms. Kara Nichols MD,Corporate,South,Furniture,Chair,Chair Lose,177.47,2,0.48,122.64,6
+CA-2023-1904,2023-03-08,Second Class,Mariah Thompson,Corporate,West,Furniture,Chair,Chair Either,27.14,5,0.1,51.44,3
+CA-2025-1905,2023-08-06,First Class,Matthew Alvarado,Home Office,West,Furniture,Bookcase,Bookcase Despite,841.07,2,0.49,31.1,8
+CA-2024-1906,2023-01-30,Standard Class,Nicholas Craig,Corporate,Central,Office Supplies,Paper,Paper Tax,796.88,5,0.09,228.7,1
+CA-2025-1907,2024-08-26,First Class,Cindy Thompson,Home Office,East,Technology,Printer,Printer Small,879.62,1,0.39,118.31,8
+CA-2023-1908,2023-01-25,Second Class,John Morgan,Consumer,West,Office Supplies,Pen,Pen Soon,294.76,3,0.34,176.78,1
+CA-2024-1909,2024-03-27,Standard Class,Dustin Espinoza,Consumer,South,Furniture,Bookcase,Bookcase Benefit,30.11,6,0.18,-39.04,3
+CA-2023-1910,2023-09-29,Standard Class,Steven Greene,Home Office,Central,Office Supplies,Pen,Pen Let,628.24,5,0.06,273.7,9
+CA-2025-1911,2023-09-11,Second Class,Donald Clark,Consumer,Central,Office Supplies,Paper,Paper Candidate,375.14,2,0.15,153.56,9
+CA-2025-1912,2024-12-12,Second Class,Wendy Armstrong,Corporate,South,Furniture,Table,Table Available,853.34,9,0.27,-5.73,12
+CA-2025-1913,2024-07-29,First Class,Beth Moore,Consumer,Central,Technology,Printer,Printer Rate,474.85,6,0.25,125.13,7
+CA-2025-1914,2024-12-20,Second Class,Logan Freeman,Corporate,Central,Furniture,Chair,Chair Sign,346.9,7,0.02,106.65,12
+CA-2024-1915,2024-12-18,Standard Class,Miranda Johnson,Corporate,Central,Technology,Monitor,Monitor Choose,568.72,7,0.17,-36.4,12
+CA-2025-1916,2023-01-09,Second Class,Tiffany Johnson,Corporate,Central,Furniture,Bookcase,Bookcase Mouth,374.03,5,0.49,60.1,1
+CA-2024-1917,2023-04-30,Second Class,William Daniel,Consumer,South,Office Supplies,Binder,Binder Face,635.6,1,0.21,282.16,4
+CA-2025-1918,2023-01-11,First Class,Joshua Snyder,Consumer,West,Technology,Monitor,Monitor Three,935.71,5,0.2,-41.31,1
+CA-2023-1919,2023-10-14,First Class,Amanda Gillespie,Home Office,South,Furniture,Sofa,Sofa Personal,847.96,4,0.28,111.44,10
+CA-2024-1920,2024-11-09,Second Class,William Castillo,Consumer,West,Furniture,Sofa,Sofa Institution,452.34,3,0.43,82.44,11
+CA-2024-1921,2024-02-29,First Class,Jordan Andrews,Home Office,Central,Technology,Monitor,Monitor Face,770.43,9,0.45,178.39,2
+CA-2025-1922,2023-02-18,Second Class,Nicole Roberts,Corporate,East,Technology,Laptop,Laptop Lead,585.21,5,0.29,5.15,2
+CA-2025-1923,2024-02-10,First Class,Katelyn Simmons,Corporate,West,Furniture,Sofa,Sofa Catch,933.2,4,0.13,67.96,2
+CA-2024-1924,2024-02-07,Standard Class,James Rasmussen,Home Office,East,Furniture,Chair,Chair Phone,657.18,3,0.08,234.02,2
+CA-2024-1925,2023-11-28,First Class,Lori Romero,Consumer,Central,Office Supplies,Storage,Storage Hope,414.9,3,0.08,37.45,11
+CA-2024-1926,2024-02-23,Standard Class,Joel Swanson,Corporate,Central,Technology,Laptop,Laptop Suffer,743.66,4,0.06,274.6,2
+CA-2025-1927,2024-02-01,Second Class,Stephanie Nguyen,Consumer,East,Office Supplies,Paper,Paper Special,257.45,7,0.11,206.25,2
+CA-2024-1928,2024-08-02,Second Class,Kimberly Horn,Corporate,Central,Technology,Phone,Phone Manage,765.28,4,0.32,-12.81,8
+CA-2023-1929,2023-04-03,Standard Class,Allison Martin,Home Office,South,Office Supplies,Binder,Binder Yes,132.61,2,0.46,210.24,4
+CA-2025-1930,2024-06-16,Standard Class,Adriana Holden,Home Office,Central,Office Supplies,Paper,Paper Simply,454.77,2,0.37,191.88,6
+CA-2025-1931,2024-06-07,Standard Class,Jennifer Turner,Home Office,West,Technology,Printer,Printer Forward,989.89,2,0.04,136.14,6
+CA-2024-1932,2023-02-13,Standard Class,Jonathan Holloway,Consumer,South,Furniture,Bookcase,Bookcase Term,327.24,8,0.14,267.25,2
+CA-2025-1933,2024-03-06,First Class,Elizabeth Cain,Home Office,South,Furniture,Sofa,Sofa Resource,657.14,2,0.23,272.32,3
+CA-2024-1934,2024-08-17,First Class,Robert Moore,Corporate,Central,Furniture,Sofa,Sofa Thousand,460.14,1,0.06,140.84,8
+CA-2023-1935,2023-03-28,Standard Class,Cathy Jenkins,Consumer,South,Furniture,Chair,Chair Serious,756.64,1,0.13,91.66,3
+CA-2025-1936,2024-01-01,Second Class,Candace Sanchez,Consumer,East,Office Supplies,Pen,Pen Someone,821.46,1,0.04,259.51,1
+CA-2023-1937,2023-07-01,Standard Class,James White,Home Office,South,Furniture,Bookcase,Bookcase Perform,539.44,5,0.25,-36.21,7
+CA-2024-1938,2024-07-07,Second Class,Edwin Kent,Home Office,East,Office Supplies,Pen,Pen Upon,974.14,6,0.32,64.17,7
+CA-2024-1939,2024-08-14,Second Class,Rebekah Young,Corporate,West,Office Supplies,Binder,Binder Cell,812.93,9,0.32,40.55,8
+CA-2024-1940,2024-12-15,Second Class,Kenneth Benson,Corporate,East,Furniture,Table,Table Method,175.72,9,0.41,139.49,12
+CA-2023-1941,2023-08-15,First Class,Paul Kennedy,Consumer,West,Office Supplies,Pen,Pen Wear,26.58,4,0.43,-16.34,8
+CA-2025-1942,2023-05-31,First Class,Mrs. April Taylor DDS,Consumer,Central,Office Supplies,Paper,Paper Morning,869.68,9,0.47,-24.88,5
+CA-2023-1943,2024-05-18,Standard Class,Thomas Rodgers,Consumer,South,Technology,Laptop,Laptop Against,725.38,4,0.05,71.97,5
+CA-2023-1944,2024-01-12,Second Class,Edwin Wood,Home Office,South,Office Supplies,Paper,Paper Sport,755.15,8,0.33,-23.27,1
+CA-2023-1945,2024-01-25,First Class,Charles Howard,Home Office,Central,Technology,Printer,Printer Money,502.9,3,0.22,171.48,1
+CA-2025-1946,2024-12-22,First Class,Dawn Burgess,Consumer,East,Office Supplies,Pen,Pen Act,138.66,1,0.3,23.46,12
+CA-2023-1947,2023-11-29,Standard Class,Carolyn Martinez,Home Office,East,Office Supplies,Paper,Paper Meet,435.1,3,0.19,206.19,11
+CA-2023-1948,2024-02-27,First Class,Charlotte Jenkins,Home Office,Central,Furniture,Table,Table East,158.32,10,0.4,-10.69,2
+CA-2025-1949,2024-10-29,Second Class,Terri Foster,Corporate,Central,Furniture,Chair,Chair Him,914.79,10,0.45,68.6,10
+CA-2023-1950,2023-09-27,Standard Class,Christine Rose,Corporate,Central,Technology,Phone,Phone Sense,922.4,8,0.34,-46.29,9
+CA-2023-1951,2023-11-22,Second Class,Eric Weaver,Home Office,East,Technology,Monitor,Monitor Idea,611.22,7,0.21,12.46,11
+CA-2025-1952,2024-05-16,Standard Class,Ethan Harris,Consumer,West,Furniture,Table,Table Quickly,515.18,7,0.28,150.2,5
+CA-2024-1953,2023-06-01,Standard Class,Julie Jackson,Home Office,South,Technology,Laptop,Laptop Race,24.54,2,0.28,294.88,6
+CA-2023-1954,2024-06-11,Second Class,Eric Conner,Corporate,East,Technology,Phone,Phone Week,961.81,8,0.47,192.44,6
+CA-2023-1955,2023-07-30,Standard Class,Cindy Clark,Corporate,Central,Office Supplies,Pen,Pen Reality,122.25,8,0.1,66.97,7
+CA-2023-1956,2024-02-25,Second Class,Jason Lee,Consumer,South,Office Supplies,Storage,Storage Between,903.4,3,0.17,13.3,2
+CA-2025-1957,2023-07-25,First Class,Thomas Gilbert,Corporate,South,Office Supplies,Storage,Storage Local,170.86,3,0.44,103.81,7
+CA-2024-1958,2024-07-15,Standard Class,Janet Burnett,Consumer,East,Office Supplies,Paper,Paper Nice,36.64,10,0.32,44.28,7
+CA-2023-1959,2023-02-18,Second Class,James Esparza,Consumer,East,Office Supplies,Binder,Binder Research,582.41,1,0.18,236.98,2
+CA-2025-1960,2023-08-03,Second Class,Rebecca James,Corporate,South,Office Supplies,Binder,Binder Need,155.34,5,0.07,-39.9,8
+CA-2023-1961,2024-01-04,First Class,Ann Carlson,Home Office,West,Technology,Laptop,Laptop Operation,143.15,1,0.02,98.78,1
+CA-2025-1962,2023-07-17,First Class,Katie Hunter,Consumer,East,Furniture,Table,Table Development,735.91,10,0.06,-40.53,7
+CA-2025-1963,2023-09-25,Standard Class,Dana Romero,Consumer,South,Office Supplies,Pen,Pen Bed,816.0,10,0.24,297.25,9
+CA-2025-1964,2023-02-22,First Class,William Wood,Home Office,Central,Office Supplies,Pen,Pen Free,695.14,2,0.22,139.13,2
+CA-2024-1965,2024-07-24,Standard Class,Louis Johnson,Consumer,South,Technology,Printer,Printer Source,386.5,6,0.47,284.85,7
+CA-2023-1966,2023-11-28,Standard Class,Daniel Richardson,Consumer,South,Office Supplies,Paper,Paper Rock,883.02,5,0.19,161.22,11
+CA-2024-1967,2023-02-17,Second Class,Katie Sanders,Corporate,West,Technology,Laptop,Laptop Pretty,236.11,9,0.05,171.05,2
+CA-2024-1968,2023-05-21,Standard Class,Mrs. Alyssa Wilson,Home Office,Central,Furniture,Table,Table Detail,508.55,6,0.25,135.47,5
+CA-2024-1969,2024-04-07,Second Class,Connie Jensen,Corporate,Central,Furniture,Chair,Chair News,497.63,7,0.14,225.04,4
+CA-2024-1970,2023-10-24,Standard Class,Edwin Chapman,Corporate,South,Office Supplies,Paper,Paper Hospital,209.69,4,0.5,237.48,10
+CA-2023-1971,2024-03-15,Standard Class,Lindsey Austin,Consumer,West,Furniture,Sofa,Sofa Yes,968.88,2,0.34,44.24,3
+CA-2024-1972,2024-01-28,First Class,Michael Rubio,Consumer,South,Office Supplies,Binder,Binder Shake,479.13,6,0.09,240.92,1
+CA-2025-1973,2023-03-09,Second Class,Seth Price,Corporate,West,Office Supplies,Paper,Paper Have,842.83,4,0.03,265.13,3
+CA-2025-1974,2023-02-08,Second Class,Allison Krause,Corporate,East,Furniture,Chair,Chair Truth,662.37,10,0.0,229.33,2
+CA-2023-1975,2023-08-10,Second Class,Kimberly Monroe,Corporate,East,Office Supplies,Paper,Paper Need,337.27,9,0.3,235.23,8
+CA-2024-1976,2024-09-26,Second Class,Gina Pittman,Corporate,East,Furniture,Table,Table Reveal,574.22,2,0.4,60.41,9
+CA-2023-1977,2023-09-07,Standard Class,Ryan Rogers,Corporate,South,Office Supplies,Storage,Storage Plant,952.77,10,0.04,78.57,9
+CA-2025-1978,2023-11-20,First Class,Eric Davis,Corporate,Central,Furniture,Bookcase,Bookcase Election,694.0,9,0.4,209.84,11
+CA-2024-1979,2024-09-26,First Class,Terri Watson,Home Office,West,Office Supplies,Storage,Storage Fact,40.38,7,0.16,277.76,9
+CA-2024-1980,2023-03-29,First Class,Benjamin Wright,Consumer,West,Office Supplies,Paper,Paper Be,821.18,6,0.2,89.09,3
+CA-2025-1981,2023-07-31,Second Class,Benjamin Cochran,Home Office,Central,Office Supplies,Binder,Binder Recent,697.16,3,0.1,1.77,7
+CA-2023-1982,2024-06-22,First Class,Amanda Nguyen,Home Office,South,Office Supplies,Storage,Storage Reveal,156.72,1,0.5,298.78,6
+CA-2025-1983,2023-03-03,Second Class,Edward Welch,Home Office,South,Technology,Printer,Printer Determine,245.3,2,0.05,57.52,3
+CA-2025-1984,2023-06-16,First Class,Jonathan Carr,Consumer,South,Furniture,Sofa,Sofa Read,172.01,9,0.25,74.05,6
+CA-2025-1985,2023-03-16,First Class,Steven Peterson,Consumer,Central,Furniture,Chair,Chair Vote,138.92,10,0.49,28.49,3
+CA-2025-1986,2023-09-25,Second Class,Richard Graham,Consumer,South,Office Supplies,Binder,Binder Space,744.6,7,0.29,121.28,9
+CA-2025-1987,2023-09-24,Second Class,Robert Wyatt,Consumer,West,Furniture,Chair,Chair Pull,484.6,9,0.35,114.44,9
+CA-2025-1988,2023-12-05,Second Class,James Brooks,Corporate,West,Office Supplies,Paper,Paper Increase,868.44,6,0.11,284.76,12
+CA-2024-1989,2023-02-20,First Class,Kevin Vega,Consumer,East,Office Supplies,Binder,Binder State,337.43,9,0.35,187.46,2
+CA-2024-1990,2023-04-06,Second Class,Emily Sanchez,Corporate,West,Office Supplies,Storage,Storage Wide,101.88,5,0.32,146.66,4
+CA-2025-1991,2023-06-29,Second Class,Stephen Bernard,Home Office,Central,Office Supplies,Paper,Paper Shake,636.0,5,0.35,17.33,6
+CA-2024-1992,2024-11-26,Standard Class,Andrew Hanson,Consumer,West,Technology,Monitor,Monitor Compare,849.79,7,0.42,176.9,11
+CA-2023-1993,2023-09-11,Standard Class,Amy Francis,Consumer,South,Office Supplies,Binder,Binder Address,890.44,8,0.36,284.82,9
+CA-2024-1994,2023-09-03,Standard Class,Cameron Johnson,Home Office,South,Furniture,Chair,Chair Bag,476.17,10,0.02,269.26,9
+CA-2024-1995,2023-06-12,First Class,Kylie Little,Consumer,West,Technology,Printer,Printer Together,888.82,9,0.13,58.99,6
+CA-2025-1996,2023-03-30,Second Class,Dr. Sharon Watson,Home Office,Central,Furniture,Chair,Chair Available,369.42,9,0.41,37.09,3
+CA-2024-1997,2024-10-02,Standard Class,Christina Joseph,Consumer,West,Technology,Monitor,Monitor About,153.79,9,0.46,198.15,10
+CA-2025-1998,2023-07-31,Second Class,Valerie Gonzalez,Consumer,West,Office Supplies,Paper,Paper Stage,580.52,10,0.42,-4.68,7
+CA-2025-1999,2024-10-11,Standard Class,James Ramirez,Corporate,Central,Technology,Phone,Phone Guy,922.66,4,0.11,-35.96,10
+CA-2024-2000,2023-05-22,Standard Class,Lisa Williams,Home Office,West,Technology,Monitor,Monitor Indicate,734.0,1,0.43,116.67,5
