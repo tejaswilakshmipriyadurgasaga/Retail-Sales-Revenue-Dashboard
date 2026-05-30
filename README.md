@@ -38,6 +38,11 @@ Key Insights
 - Evaluated customer segment performance
 - Tracked sales trends over time
 
+Dashboard Link :
+
+https://datastudio.google.com/reporting/853474cf-f055-49b7-a1e6-a6dff4e18294
+
+
 Connect With Me On Linkedin
 
 www.linkedin.com/in/saga-tejaswi-lakshmi-priya-durga-60459232
