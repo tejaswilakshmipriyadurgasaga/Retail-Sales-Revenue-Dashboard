@@ -38,10 +38,13 @@ Key Insights
 - Evaluated customer segment performance
 - Tracked sales trends over time
 
+Dashboard Review
+
+<img width="1197" height="891" alt="Retail Sales   Revenue Dashboard" src="https://github.com/user-attachments/assets/50928d9a-e2d8-4717-a10a-80b988d60844" />
+
 Dashboard Link :
 
 https://datastudio.google.com/reporting/853474cf-f055-49b7-a1e6-a6dff4e18294
-
 
 Connect With Me On Linkedin
 
