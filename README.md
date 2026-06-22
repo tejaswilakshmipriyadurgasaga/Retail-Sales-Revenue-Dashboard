@@ -1,6 +1,7 @@
 📊 Retail Sales & Revenue Dashboard
 
 📌 Project Overview
+
 This project focuses on analyzing retail sales data and building an interactive dashboard to uncover business insights related to revenue, profitability, customer segments, product categories, regions, and shipping modes.
 
 🛠️ Tech Stack
